@@ -4,22 +4,24 @@ from stat import ST_CTIME
 import os, sys, time
 from sheff_QA import answer_question,make_pipe
 import json
-path = "questions/" ;  #or you can assign the return value of your 
-                                 #function (the updated path as per your question) 
-                                 #which operates on the file 'new_file'  to this variable. 
-files = os.listdir(path);
+path = "questions/"
+files = os.listdir(path)
 
 def mostRecentFile(path):
-    all_files = os.listdir(path);
-    file_times = dict();
+    all_files = os.listdir(path)
+    file_times = dict()
     for file in all_files:
         file = os.path.join(path,file)
         #print(file)
-        file_times[file] = time.time() - os.stat(file).st_ctime;
+        file_times[file] = time.time() - os.stat(file).st_ctime
     return  sorted(file_times.items(), key=operator.itemgetter(1))[0][0]
 
 if __name__ == "__main__":
 
+    if not os.path.exists("questions/"):
+        os.mkdir("questions/")
+    if not os.path.exists("answers/"):
+        os.mkdir("answers/")
 
     pipe = make_pipe()
     old_file = ""
