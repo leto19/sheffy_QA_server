@@ -1,0 +1,927 @@
+
+
+
+
+
+'''Sheffield DocFest''' (formerly styled '''Sheffield Doc/Fest'''), short for '''Sheffield International Documentary Festival''' ('''SIDF'''), is an international [[documentary]] festival and Marketplace held annually in [[Sheffield]], England.
+
+The Festival includes film screenings, interactive and virtual reality exhibitions, talks & sessions, Marketplace & Talent for the funding and distribution of documentaries and development of filmmakers, unmissable live events, and its own [[List of film awards|awards]].
+
+Since beginning in 1994,<ref>Catherine Shoard, [https://www.theguardian.com/film/2013/jun/10/sheffield-doc-fest-jarvis-cocker ''Jarvis Cocker gears up to be Sheffield DocFest's Man of Steel''], ''The Guardian'', 10 June 2013</ref> DocFest has become the UK's biggest [[Documentary film festivals|documentary festival]] and the third largest in the world.<ref name="LittleWhiteLies">Matt Thrift, [http://www.littlewhitelies.co.uk/features/articles/preview-sheffield-docfest-2013-24026 ''Preview: Sheffield DocFest 2013''] , ''Little White Lies'', 29 May 2013</ref><ref>[http://www.huffingtonpost.co.uk/paul-drury/documentaries-golden-age_b_3455567.html ''Truth or Dare? A Golden Age for Documentary Film''], ''HuffPost'', 17 June 2013</ref> The [[BBC]] have called it "one of the leading showcases of documentary films".<ref name="bbc1">[https://www.bbc.co.uk/news/entertainment-arts-27323501 ''Martin Scorsese premiere for Sheffield DocFest''], BBC News, 8 May 2014. Retrieved 4 August 2014</ref>
+
+Sheffield DocFest is now widely recognised as one of the top three documentary festivals in the world, and "the most significant documentary festival in Britain".<ref name="FirstForBusiness">Julie Farmer, 'Centre Stage', ''First For Business'', 1 June 2013</ref> The Festival has been voted one of the Top Five Coolest Documentary Film Festivals in the World by ''[[MovieMaker]]'' magazine.<ref>Lara Colocino, [http://www.moviemaker.com/festivals/the-coolest-film-festivals-in-the-world-2013-documentary-and-horrorsci-fi-festival-winners/ ''The Coolest Film Festivals in the World, 2013: Documentary and Horror/Sci-Fi Festival Winners''], moviemaker.com, 8 November 2013</ref>
+
+==About Sheffield DocFest==
+
+Sheffield DocFest is the UK's leading documentary festival and one of the world's most influential markets for documentary projects. The festival champions and presents the breadth of documentary form – film, television, immersive and art – in the vibrant city of Sheffield each June. DocFest offers makers and audiences a place for inspiration, debate, development, learning and challenge. DocFest's programming represents the festival's core values – creativity, empathy, freedom, inclusivity and internationalism.
+
+Over the years, the festival has been held at over 20 other venues across [[Sheffield]] and the surrounding area, including the [http://www.showroomworkstation.org.uk/ Showroom Workstation], [[The Light Cinemas|Light Cinema]], [[Sheffield Town Hall]], [[Sheffield City Hall]], and the DocFest Exchange on [[Tudor Square]] developed with [[Wellcome Trust|Wellcome]]. Fun is a key element, and the festival holds many parties.<ref name="ypalex">Chris Bond, [http://www.yorkshirepost.co.uk/yorkshire-living/arts/cinema/documentary-evidence-of-a-golden-age-1-5718642 ''Documentary evidence of a golden age as festival opens window on the world'', ''The Yorkshire Post'', 30 May 2013]</ref> The festival has grown steadily over recent years.<ref name="sightsoundbestof">Nick Bradshaw, [http://www.bfi.org.uk/news-opinion/sight-sound-magazine/comment/festivals/best-sheffield-docfest-2013 ''The best of Sheffield DocFest 2013'', ''Sight & Sound'', 10 July 2013]</ref> DocFest screenings help many films to achieve a wider audience by attracting distribution and further screening opportunities for the films it shows.<ref name="docgeekssubmissions">Alexandra Zeevalkink, [http://docgeeks.com/2012/10/30/sheffield-docfest-call-for-documentary-submissions%E2%80%A8/ ''Sheffield DocFest: call for documentary submissions '', docgeeks.com, 30 October 2012]</ref>
+
+Sheffield DocFest's Marketplace & Talent is a major part of the Festival, which includes the MeetMarket for films and series to achieve funding and distribution, Alternate Realities Market for interactive and virtual reality projects, live pitches, and other training initiatives.
+
+Interactive, immersive and virtual reality documentary is also a central element of the Festival with interactive exhibitions and commissioned works scattered across the city, and the Alternate Realities Summit taking place throughout an entire day of the Festival.
+
+
+
+Sheffield DocFest is the perfect platform for anyone with an interest in interactive, virtual reality and factual content. DocFest prides itself in supporting and nurturing new talent: in addition to the Festival days in June, Sheffield DocFest presents All Year workshops, screenings, labs and mentoring opportunities both in the UK and internationally.
+
+{{Blockquote|text=Sheffield DocFest is renowned as a potent, innovative and fun festival that brings together works of great urgency and creativity. It is a privilege to have the opportunity to build on the legacy of past leadership and to work with the Board of Trustees and the dedicated Sheffield DocFest team at a time when the landscape for festivals, documentary makers and audiences is shifting so radically.|sign=Clare Stewart, Interim CEO|source=''<ref name="news"></ref>}}
+
+==History==
+
+In 1990, Peter Symes of [[BBC Television|BBC TV]] Features [[Bristol]] had the idea of creating a forum for British documentary filmmakers to debate and discuss their craft. In 1993, he set up a festival board which included representatives from [[Channel 4]], [[United Artists]], [[Discovery Channel]], [[ITV Central|Central Independent Television]] and [[ITV Granada|Granada Television]]. They chose to hold the festival in [[Sheffield]], an English industrial town which was just beginning to develop a media and cultural sector.<ref name="realscreenheather">Kevin Ritchie, [http://realscreen.com/2013/06/12/docfest-celebrates-its-second-decade/ ''DocFest celebrates its second decade''], ''realscreen.com'', 12 June 2013</ref>
+
+The first Sheffield International Documentary Festival was held in 1994, formatted as an international film festival and conference for documentary professionals.<ref name="RegionalFilm">'20th Anniversary for Sheffield DocFest', ''Regional Film and Video'', 1 June 2013</ref> It included a film programme, one or two masterclasses, and a party.<ref name="quidnunc">'Quidnunc', ''Sheffield Telegraph'', 6 June 2013</ref> It lasted two days and mainly attracted London-based filmmakers and producers, plus several international commissioners and distributors.
+
+Over the next eight years, the [[Festival]] continued with around 475-700 delegates attending, and total audiences reaching around 2000. The Festival became an opportunity for London-based independent filmmakers to talk to commissioners at the [[BBC]] and [[Channel 4]], who were otherwise difficult to reach. Success at the Festival might mean landing a job for the coming year.<ref name="realscreenheather" />
+
+In 2005 DocFest attracted more than 600 mostly-UK delegates and enjoyed almost 9000 screening and session admissions. However, with changes in the factual television marketplace, it was time for DocFest to move from a primarily craft-based event, and increase its marketplace activity. The chairman at the time, [[Steve Hewlett (journalist)|Steve Hewlett]], visited the [[Australian International Documentary Conference]] (AIDC) where he met its director [[Heather Croall]], who had a background in filmmaking and had founded the [[cross-platform]] [[storytelling]] event DigiDocs. He invited Croall to come and work for the festival, where she was subsequently Festival Director & CEO until early 2015, turning around the Festival's fortunes.<ref name="sightsoundbestof" />
+
+The 1990s rise in [[international co-production]]s meant that British producers could no longer rely solely on one big broadcaster for their entire budget, and instead had to look abroad to piece together financing for their films. To internationalise the Festival and help filmmakers achieve this financing, Croall introduced the MeetMarket [[Pitch (filmmaking)|pitching]] forum, where filmmakers pitch their ideas to funders in one-to-one meetings.  MeetMarket was developed with the help Karolina Lidin, Marketplace [[Executive Producer]] since 2008. In 2003, she developed the very first MeetMarket with Croall at [[Australian International Documentary Conference|AIDC]], which was later brought to [[Sheffield]] in 2006.
+
+Croall also introduced the digital-focused Summit and Crossover Market, now Alternate Realities Market, which – like the MeetMarket – pairs [[buyer]]s and commissioners with game designers, [[Information technologist|technologist]]s, producers, digital agencies and filmmakers, all looking to tell stories in the interactive realm.
+
+In 2007, Hussain Currimbhoy joined as programmer.<ref name="TheKnowledge">Paul Banks, [http://www.theknowledgeonline.com/the-knowledge-bulletin/post/2013/05/09/What-films-really-make-Sheffield-DocFests-Hussain-Currimbhoy-cry ''Fav docs of Sheffield DocFest's programmer''], ''The Knowledge'', 9 May 2013</ref>
+ 
+In 2011 the Festival moved from November to June, to better fit into the industry calendar and ensure better weather and lighter evenings for visitors.
+
+DocFest was an early advocate of [[crowdfunding]] as a source of [[finance]] for documentary filmmakers, and in 2010 staged its first festival-based [[crowdfunding]] pitching event, which was also an industry first.<ref>Alexandra Zeevalkink, [http://docgeeks.com/2012/10/04/sheffield-docfest-launches-crowdfunding-campaign/ ''Sheffield DocFest launches crowdfunding campaign''], docgeeks.com, 4 October 2012</ref><ref>Jennifer Merin, [http://documentaries.about.com/od/documentaryfestivals/a/Sheffield-Doc-Fest-S-Crowdfunding-Initiative.htm ''Sheffield Doc Fest's Crowdfunding Initiative''], about.com. Retrieved 10 October 2012</ref> The campaign was launched on [[Indiegogo]] with a goal to raise $25k for the Festival to help stage special events.<ref>Ian Sandwell, [http://www.screendaily.com/festivals/sheffield-doc/fest-launch-indiegogo-crowdfunding-initiative/5047357.article ''Sheffield DocFest launch Indiegogo crowdfunding initiative''], ''ScreenDaily'', 4 October 2012</ref> They exceeded their target.<ref>Ben Unwin, [http://docgeeks.com/2012/11/18/documentary-festival-reaches-own-crowdfunding-target/ ''Documentary festival reaches own crowdfunding target''], 18 November 2012</ref>
+
+From 2012, selected highlights from the Festival have often played at the [[BFI Southbank]] in London.<ref name="moviescopeschedule">Chris Patmore, [https://web.archive.org/web/20131102161022/http://www.moviescopemag.com/featured-editorial/packed-schedule-for-sheffield-docfest-announced/ ''Packed schedule for Sheffield DocFest announced''], moviescopemag.com, 10 May 2013</ref> The Festival began producing its own film projects, including ''[[From the Sea to the Land Beyond]]'' in 2012 and ''[[The Big Melt]]'' in 2013.
+
+From 2014, the [[Festival]] became recognised by the [[Academy Awards]] as an Oscar-qualifying festival in the [[Academy Award for Best Documentary (Short Subject)|Best Documentary (Short Subject)]] category<ref name="real2" /> with the DocFest Short Doc Award Winner eligible to enter for consideration. Many DocFest Short Doc Award-winning films have gone on to be shortlisted for Oscars.
+
+In 2014 DocFest presented films including ''[[Beyond Clueless]]'' and ''[[Love Is All (band)|Love Is All]]'' at [[Latitude Festival]],<ref>Elisa Bray, ''A Festival For All The Senses'', ''The Independent'', 12 July 2014</ref> with [[Sigur Ros]] scored archive film ''[[The Show of Shows: 100 Years of Vaudeville, Circuses and Carnivals]]'', ''[[Montage of Heck]]'', ''Sounds of the Cosmos'' and a number of shorts also featured in 2015. This [[partnership]] has continued, and in 2017 DocFest brought a selection of [[virtual reality]] projects to [[Latitude Festival|Latitude]] for the first time, alongside a curated programme of shorts.<ref name=":6"></ref>
+
+In 2014 there were some high level staff changes. [[Director (business)|Deputy Director]] [[Charlie Phillips (documentary films)|Charlie Phillips]] left to head up the documentary arm of [[The Guardian]], with director of [[Berwick Film and Media Arts Festival|Berwick Film & Media Arts Festival]] Melanie Iredale taking up the position.<ref name="Realscreen14">Adam Benzine, [http://realscreen.com/2014/09/08/docfest-hires-iredale-as-phillips-currimbhoy-depart/ ''DocFest hires Iredale as Phillips, Currimbhoy depart''], ''Realscreen'', 8 September 2014</ref> Director of Programming Hussain Currimbhoy left for [[Sundance Festival]] with former Executive Content Adviser at [[Independent Television Service (ITVS)]] Claire Aguilar becoming Head of Programming & Industry Engagement.<ref name="ScreenInernational">Sarah Cooper, [http://www.screendaily.com/festivals/claire-aguilar-joins-sheffield-doc/fest/5080981.article ''Claire Aguilar joins Sheffield DocFest''], ''Screen International'', 12 December 2014</ref> Croall returned to Australia to direct the [[Adelaide Fringe]].<ref name="heatherleaves">[http://www.screendaily.com/festivals/sheffield-doc/fest-director-to-step-down/5081453.article/ Sheffield DocFest director Heather Croall to step down], screendaily.com, 5 January 2015. Retrieved 1 June 2015</ref>
+
+Following Heather's departure, Crossover Labs Director [[Mark Atkin]] stepped in as acting director for the 2015 [[Festival]], before Liz McIntyre of [[Discovery Networks]] joined as CEO & Festival Director from 1 September 2015.<ref name="broadcastliz">[http://www.broadcastnow.co.uk/news/sheffield-doc/fest-hires-liz-mcintyre/5086796.article Sheffield DocFest hires Liz McIntyre], broadcastnow.co.uk, 21 April 2015. Retrieved 1 June 2015</ref>
+
+Since McIntyre's appointment, the CEO & Festival Director has championed diverse and pluralist voices, inclusiveness and accessibility, for example creating a [[Day care|crèche]] service and introducing [[British Sign Language]] interpreted talks,<ref></ref> [[Dementia]]-friendly screenings,<ref></ref> Doc/Dinner for championing diverse talent within the industry,<ref name=":7"></ref> and a From Door to Doc, affording reduced rate entry to screenings for hard-to-reach areas of [[Sheffield]].<ref></ref>
+
+
+
+In 2016 there were high-level staff appointments. Luke W Moody, formerly of [[BRITDOC Foundation|BRITDOC]] (now Doc Society) joined as Director of Film Programming, replacing Head of Programming & Industry Engagement Claire Aguilar.<ref></ref> Former [[Dogwoof]] [[Film distribution|Distribution Manager]] Patrick Hurley joined as Head of Marketplace & Talent, replacing Marketplace Manager Anna Parker.<ref></ref> From [[BBC]], Dan Tucker joined as Curator of Alternate Realities.<ref></ref> And in 2017, Lisa Brook joined as Marketing & Events Consultant.
+
+The effect of the [[Festival]] on [[Sheffield]]'s [[economy]] is worth millions of pounds. Outside of the annual [[Festival]], there is now also a year-round programme, called DocFest All Year, providing training, educational and cultural activities across the UK, including a training initiative for aspiring [[Feature film|feature]] documentary producers called Future Producer School launched in 2014.<ref name="real3">Manori Ravindran [http://realscreen.com/2014/03/10/sheffield-docfest-launches-producer-school-pitch-competitions/ ''Sheffield DocFest launches producer school, pitch competitions''], realscreen.com, 10 March 2014. Retrieved 4 August 2014</ref>
+
+=== 2020 ===
+
+The 27th Sheffield DocFest was due to take place between 4–9 June 2020. However, due to the COVID-19 pandemic, it was cancelled in its original form. In November 2019 Cíntia Gil became the new festival director at Sheffield DocFest. Her vision and film programme strands for the 27th edition of Sheffield DocFest were announced in "[https://sheffdocfest.com/articles/820-a-letter-to-sheffield-and-to-those-who-will-join-doc-fest-in-2020?tag=homepage A letter to Sheffield and to those who will join DocFest in 2020]".
+
+=== 2019 ===
+
+The 26th Sheffield DocFest was held between 6–11 June 2019, and attracted 28,098 public admissions, up 9% from the previous year, along with 3,489 industry delegates from 59 countries.<ref name="issuu.com"></ref>
+
+The Festival opened at Sheffield City Hall with a UK premiere of "[[Diego Maradona (film)|Diego Maradona]]" by [[Asif Kapadia]]. The programme featured over 200 documentaries with 36 world premieres, 19 international, 12 European and 91 UK premieres.<ref name="issuu.com"/> The films were chosen from a submission pool of 2548 from 52 countries around the world.<ref name="issuu.com"/> Programme included "The Rest" by [[Ai Weiwei]], "[[Nomad: In the Footsteps of Bruce Chatwin]]" by [[Werner Herzog]], "Midnight Family" by Luke Lorentzen, "Earth" by [[Nikolaus Geyrhalter]], "One Child Nation" by [[Nanfu Wang]], "About Love" by Archana Atul Phadke, and "[[For Sama]]" by [[Waad Al-Kateab]] and [[Edward Watts (director)|Edward Watts]].
+
+Alternate Realities programme featured 28 projects<ref name="issuu.com"/> and included "Subconscious Sensibilities" - an exhibition of virtual and augmented reality, games, interactive documentaries and large scale digital installations at [[Site Gallery]]. "Converging Sensibilities" at the Hallam Performance Lab  was a collection of 360° documentaries presented as a VR Cinema. VR experiences at the festival included: "Echo" by Georgie Pinn, "Le Lac" by Nyasha Kadandara, "Algorithmic Perfumery" by Frederik Duerinck, and "Spectre" by Bill Posters and dr. Daniel Howe – a Sheffield DocFest commission, in partnership with [[Site Gallery]], [[British Council]] and [[MUTEK]], with support from [[Arts Council England]].
+
+Over 200 speakers shared their own experiences at the 26th Sheffield DocFest.<ref name="issuu.com"/> The Talks & Sessions programme included: [[Werner Herzog]], [[Paul Greengrass]], [[Jenn Nkiru]], [[Asif Kapadia]], [[Chidera Eggerue]], [[Stacey Dooley]], [[Rodney P]], [[Michael Dapaah]], [[Jeremy Deller]] and Paddy Wivell. Industry sessions programme included "My Big Break" featuring Roxy Rezvany, Ellie Flynn and Eliza Capai discussing their career highs and lows; and "Breaking the Class Ceiling" with Danny Leigh, Fiona Campbell, Kieran Yates, Billy Porter, Mia Bays and Paul Sng exploring barriers for entry to the industry.
+
+Over 300 Decision Makers from over 30 countries attended the 2019 Festival,<ref name="issuu.com"/> including executives from [[Netflix]], [[Arte]], [[BBC]], [[Channel 4]], [[Cinereach]], [[Doc Society]], [[Dogwoof]], Altitude, Submarine Entertainment, [[ESPN]], [[National Geographic]], [[POV (TV series)|POV]], [[RYOT]], [[Artangel]], [[Passion Pictures]] and Pulse Films. Over two days 87 teams took approximately 1,650 match-made meetings with the Decision Makers in the MeetMarket and Alternate Realities Talent Market.<ref name="issuu.com"/>
+
+=== 2018 ===
+The 25th Edition of Sheffield DocFest was held between 7–12 June 2018.
+
+=== 2017 ===
+The 2017 event took place from 9 to 14 June. A record total of 72,146 audiences attended, including 3,397 industry delegates who travelled from 54 countries, 36,008 public audiences, and virtual audiences experiencing the Festival through [[livestream]].<ref></ref>
+
+The film programme hosted a record 182 films with 35 world premieres, 21 international, 24 European and 73 UK premieres. The film programme boasted premieres including: Daisy Asquith's Queerama, the Opening Night Film, scored by John Grant; Laura Poitras' new Julian Assange documentary [[Risk (2016 film)|Risk]]; [[Whitney: Can I Be Me|Whitney 'Can I Be Me']] from [[Nick Broomfield]]; and Winnie from Pascale Lamche, which originated in DocFest's MeetMarket.<ref name=":0"></ref>
+
+The Alternate Realities programme featured 26 projects, 12 of which had world premieres, 1 international, 5 European and 8 UK. VR experiences at the festival included: [[Chasing Coral]]: The VR Experience, presented in a 360 dome, which accompanied the feature documentary in the film programme; Unrest VR, which accompanied the feature film [[Unrest (2017 film)|Unrest]]; and Future Aleppo by Alex Pearson and Marshmallow Laser Feast, a commission by DocFest, in partnership with FACT, and with support from [[Arts Council England]].<ref name=":0" />
+
+The Talks & Sessions programme included big-name speakers [[Lenny Henry]], [[Peter Greenaway]], [[Ian Hislop]], [[Stacey Dooley]], [[Nick Broomfield]] and [[Louis Theroux]]. Industry sessions included: a panel about making your film Oscar-ready, featuring Tom Oyer from the [[Academy of Motion Picture Arts and Sciences]]; a sessions with [[God's Own Country]] director Francis Lee for the Northern Talent Talk; a free public interview with [[YouTube]] sensation Elijah Quashie aka [[The Chicken Connoisseur]]; and two sessions with editor [[Walter Murch]].<ref name=":0" />
+
+2017 saw the reinvention of all film strands to concisely represent the creative vision of the [[Festival]]. The new strands featured in 2017 were: Doc/Vision, Doc/Adventure, Doc/Expose, Doc/Love, Doc/Think, Doc/Rhythm, Focus/Industry, featuring work-in-progress pieces, and Focus/India, featuring a collection of documentaries from that year's focus country of choice, to mark 70 years after [[Partition of India|Partition]].<ref></ref>
+
+2017 also saw the use of new venue The [[The Light Cinemas|Light Cinema]] on [[The Moor Quarter|the Moor]], offering 3 luxury cinema screens.<ref name=":1"></ref>
+
+Following the 2017 Festival, 9 virtual reality works from the Alternate Realities exhibition were chosen to tour Latin America as part of DocFest's Realidades Alternativas tour with support from [[British Council]]. The tour visited festivals DocMontevideo in [[Uruguay]], DocSP in Brazil, and Noviembre Electrónico in [[Argentina]].<ref></ref>
+
+Notable screenings and events included:
+* The world premiere Opening Night Film Queerama from director Daisy Asquith and with a soundtrack from John Grant, [[Alison Goldfrapp]], and Hercules & Love Affair, chronicling 50 years after the decriminalization of homosexuality in the UK through the [[British Film Institute|BFI]] archive. The Opening Night event included a Q&A with Asquith and Grant, hosted by Campbell X, and a performance from Grant<ref name=":2"></ref>
+* Closing Night honoured MP [[Jo Cox]] with Closing Night Film Jo Cox: Death of an MP by director Toby Paxton, a discussion about her legacy, and a Great Get Together held on Tudor Square to encourage Festival-goers and the public to unite and remember<ref name=":1" />
+* A livestream of the UK Premiere of [[Nick Broomfield]]'s [[Whitney: Can I Be Me|Whitney 'Can I Be Me']], featuring a Q&A with Broomfield and radio presenter [[Sarah-Jane Crawford]], and a live tribute performance by Michele John, all broadcast live to 130 cinemas across the UK<ref name=":1" />
+* The return of Desert Island Docs, featuring Northern film star [[Maxine Peake]] as she discussed her favourite documentaries and the influence they hold on her life and work<ref name=":1" />
+* Joe Cocker: Mad Dog with Soul saw a sold-out screening in the iconic [[The Leadmill|Leadmill]], where [[Joe Cocker]] frequently performed<ref name=":1" />
+* The introduction of Docs 'til Dawn, showcasing rare [[Cult film|cult documentaries]] after midnight. 2017's Docs 'til Dawn programme included [[Adam Curtis]]' [[HyperNormalisation]], with an introduction from Curtis himself<ref name=":1" />
+* A retrospective looking back 50 years at 1967: The Summer of Love and Discontent, featuring films such as Allan King's ''[[Warrendale (film)|Warrendale]]'', [[Far from Vietnam]] produced by Chris Marker and directed by [[French New Wave]] filmmakers [[Jean-Luc Godard]], [[Alain Resnais]], [[Agnès Varda]], [[Joris Ivens]], [[William Klein (photographer)|William Klein]] and [[Claude Lelouch]], and a rare screening of [[Edouard de Laurot|Edouard 'Yves' de Laurot's]] Silent Revolution/Black Liberation<ref name=":2" />
+* Immersive live cinema for the European premiere of [[Florian Habicht]]'s Spookers, shown in the 1920s [[Abbeydale Picture House]] and featuring a fright-night cast of performers staged in the building<ref></ref>
+* The world premiere of [[Jamaica]]n [[Dancehall]] competition film Bruk Out! from director Cori Wapnowski, including a follow-up dancehall dance class held by the film's protagonist Ale Camara at the DocFest Exchange on [[Tudor Square]] and the [[Channel 4]] Party at Code featuring a performance from dancers featured in the film<ref></ref>
+* A work-in-progress special preview of 8 Minutes from the Alexander Whitley Dance Company, combining contemporary dance with [[NASA]] visuals from [[British Academy of Film and Television Arts|BAFTA-winning]] artist Tal Rosner, ahead of the Sadler Wells premiere in July<ref name=":1" />
+* The Alternate Realities Summit returned with a full day of panel sessions and keynote speakers, featuring [[Google]]'s Jessica Brillhart, [[The Guardian]]'s VR Deputy Editor Nicole Jackson, [[Amnesty International]] UK's Che Ramsden, and Robin McNicholas from Marshmallow Laser Feast on using the latest technology to create projects like Future Aleppo and including a surprise [[Skype]] from Future Aleppo's 13-year-old inspiration Syrian refugee Mohammed Kteish<ref name=":3"></ref>
+* The European premiere of VR installation Munduruku: The Fight to Defend the Heart of the Amazon by Grace Boyle (The Feelies), James Manisty (Alchemy VR) and Pete Speller ([[Greenpeace]]), which went on to win the Alternate Realities Audience Award at DocFest 2017, and then further tour Latin America with DocFest's international VR tour 'Realidades Alternativas' with support from [[British Council]]<ref></ref>
+* Live VR experience DOOM ROOM hosted in Theatre Delicatessen mixed performance art with virtual reality in a UK premiere from Danish artist Mads Damsbo (source)
+* The return of DocFest Exchange developed with Wellcome, offering elements of the film, Alternate Realities, and talks programmes for free to the public<ref name=":3" />
+* [[Years & Years|Years and Years]] frontman [[Olly Alexander]] on his new documentary Growing Up Gay and his personal struggle with mental health in the [[LGBT|LGBTQ+]] community<ref name=":1" />
+* [[Nick Broomfield]] in conversation with [[Louis Theroux]] for [[BBC|The BBC]] Interview, held at the sold-out [[Crucible Theatre]]<ref name=":1" />
+* The introduction of the Craft Summit presented by Documentary Campus, featuring industry heavyweights that dissect the art of documentary filmmaking. Speakers included editor [[Walter Murch]], Field of Vision's Charlotte Cook and Ben Steele on serialised documentaries, Balz Bachmann and Nainita Desai on composing, and directors from the 2017 film programme Julia Dahr ([[Thank You for the Rain]]), Shaul Schwarz (Trophy) and Egil Håskjold Larsen (69 Minutes of 86 Days) on directing and [[cinematography]]<ref></ref>
+
+===2016===
+The 2016 event took place from 10 to 15 June. A total of 32,769 audiences attended, including 3,534 industry delegates who travelled from 60 countries, and 29,235 public audiences, both figures a record increase on 2015.<ref name=":4"></ref>
+
+The film programme hosted a record 160 films with 27 world premieres, 15 international, 19 European and a whopping 52 UK premieres from 49 different countries. Audiences were attracted to big filmmaking names from the documentary world including US director [[Michael Moore]] – whose film ''[[Where to Invade Next]]'' opened the Festival – [[Louis Theroux]], [[Palme d'Or]] winning director [[Ken Loach]], and legendary filmmakers [[D. A. Pennebaker]] and [[Chris Hegedus]].<ref name=":5"></ref>
+
+Women and [[LGBT|LGBT+]] subjects feature prominently throughout the Festival's selection, making up two of the festival's strands, plus a retrospective honouring [[Chantal Akerman]].<ref name=":5" /> The speakers represented in the Talks & Sessions programme were 45% female.<ref name=":4" />
+
+The newly renamed Alternate Realities programme featured 14 immersive media experiences in [[Millennium Gallery]], and 12 virtual reality documentaries in Site Gallery, The Space and Union Street. The Alternate Realities Summit was a day-long event with a focus on virtual reality, [[artificial intelligence]], and mixed reality. The morning session saw a keynote from Ramona Pringle and Bina48, an artificially intelligent robot, while the afternoon session saw a keynote from Google's Jessica Brillhart.<ref></ref> 2016 also saw the inaugural Alternate Realities Commission, supported by site Gallery and [[Arts Council England]].<ref></ref> Darren Emerson's Indefinite (previously Invisible) won the £5,000 prize and had its World Premiere at the Festival.<ref></ref> Indefinite, about the detention of immigrants in Britain, was later featured by [[The New York Times]].<ref></ref>
+
+2016 saw the introduction of the DocFest Exchange on [[Tudor Square]] developed with Wellcome, which hosted a series of public talks, including an interview with [[This is England]] director [[Shane Meadows]].<ref></ref>
+
+Notable screening and events included:
+* The UK Premiere of [[Michael Moore]]'s ''Where to Invade Next'' opened the Festival at [[Sheffield City Hall]], attended by Moore for a post-screening Q&A which was live streamed to more than 120 cinemas nationwide.<ref></ref>
+* The UK Premiere of The Seasons in Quincy: Four Portraits of John Berger closed the Festival with a sell-out screening at Showroom Cinema, attended by directors Tilda Swinton and Bartek Dziadosz<ref></ref>
+* Live performances accompanied film screenings including: a performance by protagonist and famous street dancer [[Storyboard P]] following the World Premiere of Storyboard P, a stranger in Sweden;<ref></ref>  a solo set by Princess Shaw following the UK Premiere of Presenting Princess Shaw;<ref></ref> and Where You're Meant to Be was screened in [[Abbeydale Picture House]], followed by a set from Arab Strap's [[Aidan Moffat]] and the Bothy Ballad singers.<ref></ref> 
+* Following the UK Premieres of ''Strike a Pose'' and ''Kiki'', the Vogue, Strike a Pose Party invited Madonna backup dancer [[Kevin Stea]], New York ballroom leader Twiggy Pucci Garcon, and a house of voguers to [[O2 Academy Sheffield|O2 Academy]]<ref></ref>
+* [[USC Shoah Foundation Institute for Visual History and Education|USC Shoah Foundations]]' New Dimensions in Testimony had its World Premiere as part of the Alternate Realities Exhibition, showcasing groundbreaking technology in natural language processing software through a hologram of Holocaust Survivor [[Pinchas Gutter]].<ref></ref> The project was awarded both the Alternate Realities Interactive Award and Audience Award for Interactive Project. It was also featured in the Alternate Realities Summit, with creator Dr Stephen Smith presenting a keynote, joined by Gutter himself on stage<ref></ref>
+* [[David Attenborough|Sir David Attenborough]] came to the [[Festival]] for the first time, seeing a sold-out talk at the Crucible Theatre, which was live broadcast to the Outdoor Screen on [[Tudor Square]]<ref></ref>
+* [[Ken Loach]] held a packed Q&A following Versus: The Life and Films of Ken Loach<ref></ref>
+* [[D. A. Pennebaker]] was honoured with a retrospective, and also attended the UK Premiere of his film [[Unlocking the Cage]]. The legendary documentary maker was also featured in conversation with collaborator [[Chris Hegedus]] at the Crucible Theatre<ref name=":5"/>
+* [[Joanna Lumley]] delivered a packed talk at Crucible Theatre<ref></ref>
+* Snooker legend [[Ronnie O'Sullivan]] returned to the Crucible Theatre, where he has won five World Championship titles, to discuss his favourite documentaries<ref></ref>
+
+=== 2015 ===
+The 22nd Festival ran for six days 5–10 June. Over 20 venues were used to host films, sessions, interactive exhibitions and networking events, with the full programme announced on the morning of the general election on 7 May.<ref name="DocGeeks">DocGeeks, [http://docgeeks.com/2015/05/07/sheffield-docfest-2015-aims-for-bigger-better-and-more-interactive/ ''Sheffield DocFest aims for bigger, better and more interactive in 2015''], ''DocGeeks'', 7 May 2015</ref> A record number of audiences attended the festival, with 3,422 festival delegates and 27,917 members of the public.
+
+148 films were shown, of which a record breaking 31 were world premieres, including [[Sean McAllister (filmmaker)|Sean McAllister]]'s hotly anticipated ''[[A Syrian Love Story]]'', Brian Hill's ''The Confessions of Thomas Quick'', and Jake Witzenfeld's ''Oriented'', 41 UK premieres, 13 international premieres, and 19 European premieres.<ref name="Screen Daily4">Michael Rosser, [http://www.screendaily.com/festivals/sheffield-doc/fest-unveils-2015-line-up/5087486.article '' Sheffield DocFest unveils 2015 line-up''], ''Screen Daily'', 7 May 2015</ref> Nearly 50% of the film programming was headed up by female filmmakers, with 73 of the films either produced or directed by women filmmakers.<ref name="HollywoofReporterF">Alex Ritman, [http://www.hollywoodreporter.com/news/sheffield-doc-fest-female-presence-801201 ''Sheffield DocFest Touts Strong Female Presence''], ''The Hollywood Reporter'', 9 June 2015</ref>
+
+Notable screenings and events included:
+* The UK premiere of [[Joshua Oppenheimer]]'s ''[[The Look of Silence]]'' at [[Showroom Cinema, Sheffield|Showroom Cinema]] opened the [[Festival]] with sell out screenings in both Screens 3 and 4.
+* Opening Night continued at [[Sheffield City Hall]] with the world premiere of archive film ''[[The Show of Shows: 100 Years of Vaudeville, Circuses and Carnivals]]'' directed by Benedikt Erlingsson and scored by [[Georg Hólm]] and [[Orri Páll Dýrason]] of [[Sigur Rós]] and the Head of the Pagan Church in [[Iceland]] and godfather of Icelandic music, [[Hilmar Örn Hilmarsson]].<ref name="The Star3">Ben Green, [http://www.thestar.co.uk/what-s-on/cinema/sheffield-doc-fest-2015-full-programme-announced-1-7247314 ''SHEFFIELD DOCFEST 2015: Full programme announced''], ''The Star'', 11 May 2015. Retrieved 3 November 2015</ref> The film features never before seen footage from fairgrounds, circuses, variety performances, vaudeville and more, from the very birth of film to the present day, including footage from [[The University of Sheffield]]'s National Fairground Archive.
+* A special screening of Jessica Edward's bio-doc ''Mavis!'' documenting the life of [[Mavis Staples]] was held in the classic [[Victorian era|Victorian]] [[Sheffield Botanical Gardens]].
+* Sheffield Repertory Orchestra performing [[Gustav Holst]]'s [[The Planets]] live to a screening of interplanetary odysseys and commissioned visuals by Sheffield creative design agency Human and commentary from astronomer Paul Crowther.
+* A 'Women in Docs' strand celebrating films with women on screen and behind the lens.
+* ''War Work: 8 Songs with Film'', a master work of poetic and musical archive composed and directed by [[Michael Nyman]], and performed by Michael Nyman Band and [[Hilary Summers]] to commemorate the First World War.<ref name="HuffPost15">Caroline Frost, [http://www.huffingtonpost.co.uk/2015/05/07/sheffield-doc-fest_n_7230490.html ''Idris Elba's 'Mandela, My Dad And Me' One Of The Highlights At This Year's Sheffield Documentary Festival''], ''HuffPost'', 7 May 2015. Retrieved 3 November 2015</ref>
+* A retrospective of British activist filmmaker [[John Akomfrah]].
+* A closing night event including screening of ''[[Monty Python]] – [[Monty Python: The Meaning of Live|The Meaning of Live]]'' by [[Roger Graef]] and [[James Rogan]], with [[Michael Palin]] in attendance for a post-screening Q&A and book signing.<ref name="The Star3" />
+* The Ideas & Science strand, supported by the [[Wellcome Trust]], focusing on creativity and innovation at the heart of documentary, digital and interactive.<ref name="The Star3" />
+* An 'Interactive at Sheffield' exhibition presented by Crossover Labs, featuring 16 interactive documentaries held at [[Millennium Gallery]].
+* A dedicated [[Virtual Reality]] Arcade at [[Site Gallery]] featuring 9 projects on a collection of [[Oculus Rift]], [[Samsung Gear VR]] and [[Google Cardboard]].<ref name="VRFocus2015">Jamie Feltham, [http://vrfocus.com/archives/16309/sheffield-docfest-2015-shows-vr-at-its-most-humanising-empowering-and-emotive/ ''Sheffield DocFest 2015 Shows VR at its Most Humanising, Empowering and Emotive''], ''VR Focus'', 9 June 2015. Retrieved 3 November 2015</ref>
+* ''FINAL DAYS'' by British artist [[Heather Phillipson]], a specially commissioned installation at [[Sheffield Co-operative Society|Castle House]], a defunct department store in the heard of [[Sheffield]]. Supported by [[Arts Council England]], presented in partnership with [[University of Sheffield]] and [[Serpentine Galleries]].
+
+There were 83 sessions, talks and masterclasses,<ref name="DocGeeks" /> with speakers including [[Davina McCall]], [[Nicky Campbell]], [[Jon Snow (journalist)|Jon Snow]], [[Lucy Worsley]], [[Philippa Perry]], [[Ian Katz]], [[Charlotte Moore (TV executive)|Charlotte Moore]], and [[Robin Ince]].<ref name="The Star3" />
+
+===2014===
+
+The Festival expanded from five days to six and for the first time began on a Saturday. Screenings took place across a wider range of more unusual venues in [[Sheffield]] and the [[Peak District]].<ref name="real1">Kelly Anderson, [http://realscreen.com/2013/09/12/sheffield-docfest-expands-sets-2014-dates/ ''Sheffield DocFest expands, sets 2014 dates''], ''Real Screen'', 12 September 2013. Retrieved 4 August 2014</ref> 130 films were shown, of which 21 were world premieres, 24 UK premieres, and 12 European premieres.<ref name="real2">Kevin Ritchie, [http://realscreen.com/2014/05/09/scorsese-longinotto-woolcock-to-premiere-docs-in-sheffield/ ''Scorsese, Longinotto, Woolcock to premiere docs in Sheffield''], ''Real Screen'', 9 May 2014. Retrieved 4 August 2014</ref><ref name="indiewire1">Eric Eidelstein, [http://www.indiewire.com/article/the-21st-annual-sheffield-documentary-festival-will-showcase-a-new-scorsese-film-conference-sessions-marketplace-opportunities-and-more ''The 21st Annual Sheffield Documentary Festival Will Showcase a New Scorsese Film, Industry Sessions and More''], indiewire.com, 8 May 2014. Retrieved 4 August 2014</ref><ref name="bbc2">Ian Youngs, [https://www.bbc.co.uk/news/entertainment-arts-27606355 ''Sheffield DocFest: War crimes, pop stars and skaters''], BBC News, 6 June 2014. Retrieved 4 August 2014</ref>
+
+World premieres included [[Martin Scorsese]]'s documentary about ''[[The New York Review of Books]]'', ''[[The 50 Year Argument]]''; Alex Holmes' ''Stop At Nothing: The Lance Armstrong Story''; ''The Last Man On The Moon'', about former astronaut [[Eugene Cernan]] who also attended the Festival; ''One Rogue Reporter'', written and directed by former '[[Daily Star (United Kingdom)|Daily Star]]' reporter Rich Peppiatt;<ref name="bbc1" /> and ''Brilliant Creatures: Rebels of Oz''.<ref name="guardian2">Vanessa Thorpe, [https://www.theguardian.com/tv-and-radio/2014/may/31/australians-1960s-swinging-london-culture-greer-james-humphries-hughes ''The Australians who set 60s Britain swinging''], ''The Guardian'', 31 May 2014. Retrieved 4 August 2014</ref>
+
+Notable screenings and events included:
+* The European premiere of ''Pulp: A Film About Life, Death and Supermarkets'' directed by [[Florian Habicht]],<ref name="guardian1">Henry Barnes, [https://www.theguardian.com/film/2014/may/08/sheffield-docfest-2014-martin-scorsese-50-year-argument ''Sheffield DocFest to host first public screening of Scorsese documentary''], ''The Guardian'', 8 May 2014. Retrieved 4 August 2014</ref> telling the story of [[Pulp (band)|Pulp]]'s final concert in [[Sheffield]] in 2012<ref name="bbc1" /> and including a simulcast and live satellite Q&A with the band, broadcast to 120 cinemas across the UK and Ireland.<ref name="guardian7">Charles Gant, [https://www.theguardian.com/film/filmblog/2014/jun/10/22-jump-street-uk-box-office-film-comedy ''22 Jump Street triples original's first weekend take at UK box office''], ''The Guardian'', 10 June 2014. Retrieved 4 August 2014</ref><ref>Alicia Tan, [http://www.radiotimes.com/news/2014-06-02/pulp-head-home-for-premiere-of-documentary-at-sheffield-doc-fest ''Pulp head home for premiere of documentary at Sheffield Doc Fest''], ''Radio Times'', 2 June 2014. Retrieved 4 August 2014</ref>
+* The premiere of [[Kim Longinotto]]'s ''Love Is All'' at [[Chatsworth House]] with a soundtrack by [[Richard Hawley]], combining film material from the [[BFI National Archive]] with original music in a similar vein to previous DocFest projects ''[[From the Sea to the Land Beyond]]'' and ''[[The Big Melt]]''.
+* [[Saint Etienne (band)|Saint Etienne]] performing a live score to ''How We Used To Live'', [[Paul Kelly (film maker)|Paul Kelly]]'s documentary about vanishing London.
+* [[Summer Camp (band)|Summer Camp]] performing a live soundtrack to ''[[The Guardian|Guardian]]'' writer [[Charlie Lyne]]'s film essay ''[[Beyond Clueless]]'', about 90s teen movies.<ref name="guardian1" />
+* A 'Hell on Wheels' strand of cycling films to celebrate the [[Tour de France]] visiting [[Yorkshire]].<ref name="guardian5">Helen Pidd, [https://www.theguardian.com/film/filmblog/2014/jun/09/cycling-documentary-slaying-the-badger-greg-lamond-bernard-hinault-lance-armstrong ''Hell on wheels: cycling documentaries at Sheffield DocFest''], ''The Guardian'', 9 June 2014. Retrieved 4 August 2014</ref>
+* Nightly screenings in the [[Peak Cavern]] including Thomas Balmes' ''[[Happiness (2014 film)|Happiness]]''.
+* A spotlight on [[South Africa]] including ''Miners Shot Down'' about the [[Marikana miners' strike]].<ref name="bbc1" />
+* A retrospective of experimental Greek-French director [[Agnès Varda]].
+* An 'Interactive at Sheffield' exhibition presented by Crossover Labs, featuring 15 interactive documentaries delivered through devices including the [[Oculus Rift]] Virtual Reality headset.<ref name="real2" /> This included the first documentary videogames to be shown at the [[Festival]], ''[[Riot (video game)|Riot]]'' and ''[[Papers, Please]]''.<ref name="indiewire2">[http://www.indiewire.com/article/sheffield-documentary-festival-to-present-15-boundary-pushing-interactive-documentaries ''Sheffield Documentary Festival to Present 15 Boundary-Pushing Interactive Documentaries as part of Interactive at Sheffield''], indiewire.com, 6 May 2014. Retrieved 4 August 2014</ref>
+* Immersive documentary ''Door into the Dark''.<ref name="dazed1">Charlotte Harding, [http://www.dazeddigital.com/artsandculture/article/20124/1/how-to-get-lost ''How to get lost''], ''Dazed''. Retrieved 4 August 2014</ref>
+
+Speakers included [[Peter Bazalgette]], [[Jeremy Deller]], [[Brian Eno]], [[Sue Perkins]], [[Grayson Perry]], [[John Pilger]], [[Jon Snow (journalist)|Jon Snow]], and [[Ondi Timoner]].<ref name="bbc1" /><ref name="real2" /><ref name="indiewire1" /><ref name="guardian1" />
+
+There were 82 conference sessions and masterclasses,<ref name="real2" /> and a record number of pitch opportunities for filmmakers worth £200,000.<ref name="real3" />
+
+===2013===
+
+2013 saw a record number of films and delegates.<ref>Jennifer Merin, [http://documentaries.about.com/b/2013/06/16/sheffield-docfest-2013-celebrating-20-years.htm ''Sheffield DocFest 2013 - Celebrating 20 Years!''], about.com, 16 June 2013</ref> Delegate numbers rose by 18% to 3,129.<ref>[http://nowthenmagazine.com/issue-64/filmreel-1/ ''Film Reel''] , nowthenmagazine.com, July 2013</ref> There were a record 18 international delegations including representatives from [[Armenia]], [[Canada]], [[Jordan]], [[Morocco]], the [[Netherlands]], the [[State of Palestine]], [[Russia]], [[South Africa]], and [[South Sudan]], attending the Festival with a special focus on factual filmmaking in their regions.<ref>Alexandra Zeevalkink, [http://www.kftv.com/blog/2013/06/13/Networking-at-Sheffield-DocFest ''Networking at Sheffield DocFest''], KFTV, 13 June 2013</ref>
+
+250 buyers and Decision Makers from over 20 countries attended.<ref name="RegionalFilm" />
+
+Film submissions topped 2000 for the first time.<ref name="dylanwray">Daniel Dylan Wray, [https://www.theguardian.com/film/the-northerner/2013/may/09/sheffield-docfest-documentary-festival-2013 ''Sheffield DocFest hopes to rekindle last year's Oscar magic''], ''The Guardian'', 9 May 2013</ref> 120 films were shown, of which there were 77 [[feature length]] documentaries,<ref>'Five Best Revivals', ''The Independent'', 8 June 2013</ref> 33 [[Short film|shorts]], 10 interactive projects and one [[Installation art|art installation]].<ref name="TheKnowledge" /> There were 18 world [[premiere]]s,<ref name="FirstForBusiness" /> 12 UK premieres, and 5 European premieres. A record 14 films screening at DocFest were developed and funded through [[#MeetMarket|MeetMarket]],<ref name="televisualhighlights">Pippa Considine, [http://www.televisual.com/news-detail/Sheffield-DocFest-highlights-for-2013_nid-2797.html ''Sheffield DocFest highlights for 2013''], televisual.com, 10 May 2013</ref> including [[Joshua Oppenheimer]]'s ''[[The Act of Killing]]'' which went on to win the Audience Award.<ref name="sightsoundbestof" />
+
+World premieres included ''[[Johnny Moped|Basically, Johnny Moped]]'', ''Emptying The Skies'', ''Everybody's Child'', ''[[A Fragile Trust|A Fragile Trust: Plagiarism, Power & Jayson Blair at the New York Times]]'', ''Here Was Cuba'', ''[[Mirage Men]]'', ''Notes from the Inside with [[James Rhodes (pianist)|James Rhodes]]'', ''[[Particle fever]]'', ''Plot for Peace'', ''Project Wild Thing'', ''[[Richard Pryor: Omit the Logic]]'', ''[[The Big Melt]]'', ''[[Sebastian Junger#Which Way is the Front Line From Here?|Which Way is the Front Line from Here? The Life and Time of Tim Hetherington]]'', ''The Man Whose Mind Exploded'', ''The Road to Fame'', ''The Secret Life of Uri Geller – Psychic Spy?'', ''[[Thin Ice (2013 film)|Thin Ice]]'', and ''To Let The World In''.
+
+European premieres included ''[[After Tiller]]'', ''[[Dirty Wars]]'', and ''[[Pandora's Promise]]''.
+
+UK premieres included ''The Act of Killing'' and ''[[The Crash Reel]]''.<ref name="realscreenpunk">Barry Walsh, [http://realscreen.com/2013/05/09/pussy-riot-a-punk-prayer-to-open-sheffield-docfest/ ''"Pussy Riot: A Punk Prayer" to open Sheffield DocFest''], realscreen.com, 9 May 2013</ref> ''The Act of Killing'' went on to win a [[British Academy of Film and Television Arts|Bafta]] and was named best film of 2013 by ''[[The Guardian]]''.<ref name="britishcouncil">[http://film.britishcouncil.org/our-projects/spotlight/2014/hussain-currimbhoy ''Hussain Currimbhoy''] , British Council, 2 June 2014. Retrieved 4 August 2014</ref>
+
+Film strands included Behind the Beats, Best of British, Cross-Platform, Euro/Doc, First Cut, Global Encounters, New York Times Op-Docs, Queer Screen, Resistance, Shorts, The Habit of Art, and This Sporting Life.
+
+A new strand, Films on Film, screened a notable film with a documentary about it, for example ''[[The Exorcist (film)|The Exorcist]] (Director's Cut)'' with ''The Fear of God: 25 Years of The Exorcist'', and [[John Waters]]' ''[[Female Trouble]]'' with ''[[I Am Divine]]''.<ref name="moviescopeschedule" /> This strand aimed to attract a wider mix of people, and was supported by [[National Lottery (United Kingdom)|Lottery]] funding through the BFI's Film Festival Fund which provides extra resources to help grow film festival audiences.<ref name="ScreenDailyPussyRiot">[http://www.screendaily.com/news/pussy-riot-film-to-open-doc/fest/5054794.article ''Pussy Riot film to open Sheffield DocFest''], screendaily.com, 9 May 2013</ref>
+
+The DocFest Retrospective strand celebrated the work of Japanese filmmaker [[Shōhei Imamura]].<ref name="realscreenpunk" />
+
+More than 75 directors were present and took part in Q&A sessions.<ref>[http://www.thestar.co.uk/what-s-on/cinema/star-studded-line-up-for-documentary-festival-1-5755467 ''Star-studded line-up for documentary festival''], ''The Star'', 11 June 2013</ref>
+
+Notable screenings and events included:
+* Three opening night films:
+** ''[[The Big Melt]]'', a documentary film about [[Sheffield]]'s steel industry by Martin Wallace with a live soundtrack from [[Jarvis Cocker]] and over 50 musicians.<ref name="NMEpulp">[http://www.nme.com/news/pulp/70766 ''Pulp's Jarvis Cocker to perform at Sheffield premiere of steel documentary 'The Big Melt''], ''NME'', 10 June 2013</ref>
+** An in-cave screening of ''[[The Summit (2012 film)|The Summit]]'', a climbing documentary by Nick Ryan about the quest to reach the peak of [[K2]]. This was screened at [[Peak Cavern]], a cave known as the 'Devil's Arse', in the [[Peak District]].<ref>Jane Faram, 'Sheffield DocFest', digyorkshire.com. Retrieved 4 June 2013</ref>
+** The European premiere of ''[[Pussy Riot: A Punk Prayer]]'' followed by a [[Skype]] interview with [[Yekaterina Samutsevich|Katya Samutsevich]], one of the members of [[Pussy Riot]].<ref name="ExposedWhatsUp" /><ref name="picturevillepussyriot">Mark Moran, [http://www.pictureville.net/2013/05/pussy-riot-punk-prayer-to-open.html ''Pussy Riot film to open Sheffield's DocFest 20''], pictureville.net, 9 May 2013</ref>
+* A live soundtrack performance of ''[[Songs from the Shipyards]]'' by [[Mercury Prize]]-nominees [[The Unthanks]].<ref>Mark Perkins, 'The Unthanks: Songs from the Shipyards', ''Exposed'', 12 June 2013</ref>
+* A look behind-the-scenes of the BBC's ''[[Who Do You Think You Are? (UK TV series)|Who Do You Think You Are?]]'' series.<ref>'The Diary', ''Yorkshire Life'', 1 June 2013</ref>
+* A day of events centred on the [[Ken Loach]] documentary ''[[The Spirit of '45]]''.<ref name="dogwoofspirit">[http://dogwoof.com/blog/post/the_spirit_of_45_day_announced_for_sheffield_doc_fest/13900 'The Spirit of '45 Day announced for Sheffield DocFest'], 8 May 2013</ref>
+* TEDxSheffield, a fringe event which took place the day before the Festival.<ref>Cristina A Gonzalez, [http://www.indiewire.com/article/sheffield-doc-fest-2013-lineup ''20th Sheffield DocFest Unveils Lineup; To Open With Three Docs Including 'Pussy Riot''], Indiewire.com, 9 May 2013</ref>
+* The [[Howard Street (Sheffield)|Howard Street]] outdoor screen which showed films for free for 12 hours each day during the Festival.<ref name="starhussain">Ellen Beardmore, ''Once in a lifetime' chance to see films', ''The Star (Sheffield)'', 30 May 2013</ref>
+* [[Blast Theory]]'s interactive online game ''I'd Hide You''.<ref name="wired1">Liat Clark, [https://www.wired.co.uk/news/archive/2014-02/20/sheffield-blast-theory ''City-wide manhunt turns Sheffield into digital stage''] , wired.co.uk, 20 February 2014. Retrieved 4 August 2014</ref>
+* Doc/Feast, a street food market made up of local foodie businesses,<ref>'Street Food Feast', ''Sheffield Telegraph'', 6 June 2013</ref> plus a special DocFest ale.<ref name="quidnunc" />
+
+There were 80 conference sessions and masterclasses,<ref name="televisualhighlights" /> and 300 speakers.<ref name="RegionalFilm" /> Notable speakers included [[Adam Buxton]], [[Melvyn Bragg]], [[Jonathan Franzen]], [[Uri Geller]], [[Ira Glass]], Alex Graham, [[Janice Hadlow]], [[Jay Hunt (television executive)|Jay Hunt]], [[Ross Kemp]], [[Mark Kermode]], [[Trevor McDonald|Sir Trevor McDonald]], [[Hardeep Singh Kohli]], [[Walter Murch]], [[Miranda Sawyer]] interviewing [[Michael Palin]], Sue Perkins, [[Captain Sensible]], and [[Alan Yentob]].<ref name="FirstForBusiness" /><ref>Ryan Finnigan, [http://www.noripcord.com/features/film-and-tv/docfest-2013-preview ''DocFest 2013 Preview''], noripcord.com, 6 June 2013</ref><ref name="Exposed">'Docfest', ''Exposed magazine'', 1 May 2013</ref><ref>Laura Davies, 'Indian Summer', ''Exposed magazine'', 1 June 2013</ref><ref>'Sheffield DocFest', ''The Yorkshire Post'', 8 June 2013</ref><ref>'Hot Tickets, ''The Observer'', 2 May 2013</ref><ref>'Top News', ''Broadcast'', 21 June 2013</ref><ref name="SheffieldTelegraph">Ian Soutar, 'Film critic Mark exorcising 25 years of fear', ''Sheffield Telegraph'', 6 June 2013</ref>
+
+===2012===
+
+2,657 delegates from 67 countries attended the Festival, and general admissions were 20,079.
+
+Notable screenings and events included:
+* The debut of ''From The Sea To The Land Beyond'', a documentary by [[Penny Woolcock]] with a live soundtrack performance by [[British Sea Power]].<ref>Pete Martin, [http://nowthenmagazine.com/issue-64/live/ ''British Sea Power''] , nowthenmagazine.com, July 2013</ref>
+* A surprise performance by [[Sixto Rodriguez]], the star of opening night film ''[[Searching for Sugar Man]]'', which went on to win an [[Academy Award|Oscar]] for [[Academy Award for Best Documentary Feature|Best Documentary]].<ref name="dylanwray" />
+
+Speakers included [[Gareth Malone]] and [[Tim Pool]].<ref name="ExposedWhatsUp">Laura Davies, 'What's Up, Doc', ''Exposed magazine'', 1 June 2013</ref>
+
+===2011===
+
+2011 saw the Festival move from November to June, right off the back of the November 2010 Festival. The Festival opened with [[Morgan Spurlock]]s' [[POM Wonderful Presents: The Greatest Movie Ever Sold]] and featured box-office hit [[Senna (film)|Senna]], Alma Har'el's debut [[Bombay Beach (film)|Bombay Beach]], an Albert Maysels retrospective, and Oscar-winning director [[Barbara Kopple]]'s Gun Fight.<ref></ref><ref></ref>
+
+== Awards ==
+
+The Sheffield DocFest Awards honour the best documentaries from the DocFest programme, and are judged by industry professionals.
+
+===Current categories===
+* '''Sheffield DocFest Audience Award''' voted for by audiences, for both Films and Alternate Realities projects. 
+* '''Grand Jury Prize''' for excellence in style, substance and approach. The jury is made up of UK and international documentary specialists. 
+* '''Environmental Award''' given to the documentary that best addresses or raises awareness of the environmental challenges faces by the world.
+* '''Interactive Award''' for a project that exhibits originality in approach to form, storytelling and delivery. The jury is made up of international film and interactive industry experts.
+* '''Tim Hetherington Award''' presented by [[Dogwoof Pictures|Dogwoof]]. This was introduced in 2013 to honour war photographer [[Tim Hetherington]]. It includes a cash prize and is decided by a jury including Tim's mother, Judith Hetherington.
+* '''Illuminate Award''' supported by [[Wellcome Trust|Wellcome]]. This award explores the screen chemistry between vibrant storytelling and innovative filmmaking inspired by science.
+* '''Art Doc Award''' for new forms of documentary storytelling and bold, innovative [[non-fiction]] films.
+* '''New Talent Award''' to discover the future of documentary film.
+* '''Youth Jury Award''' for the film that is most engaging for young audiences. The winner is chosen by a jury of five young people aged 18–22, who take part in a series of workshops and screenings with industry professionals ahead of the festival.<ref>'DocFest Youth Jury', ''Big Issue in the North'', 11 February 2013</ref>
+* '''Short Doc Award''', introduced in 2013,<ref name="SheffieldTelegraph" /> these films are made by new and established filmmakers from around the world and automatically qualifies the winner for consideration for the [[Academy Awards]].
+* '''Student Doc Award''' for films made as part of tertiary course work at UK and international universities, judged by a panel of industry experts.
+* '''Alternate Realities Virtual Reality Award''', celebrating virtual reality documentary as a flourishing creative genre awarding the project that displays excellence in factual storytelling as well as technical ingenuity.
+* '''Alternate Realities Interactive Award''', honouring the project that exhibits originality in its approach to form, storytelling and delivery.
+
+=== Previous categories ===
+* Inspiration Award, introduced in 2009, which celebrates a figure in the industry who has championed documentary and helped get great work into the public eye.<ref name="televisualhighlights" />
+* The In The Dark Sheffield International Audio Award introduced in 2014 to highlight the best in audio documentaries.<ref name="guardian3">Vicky Frost, [https://www.theguardian.com/media/audio/2014/jun/07/podcasting-documentary ''Sheffield DocFest 2014: Love and Radio - audio''], ''The Guardian'', 7 June 2014. Retrieved 4 August 2014</ref>
+* Interactive Award
+* Student Doc Award
+* Sheffield Innovation Award   
+* EDA Award for Best Female-Directed Film   
+* The Wintonick Award
+* Short Doc Audience Award   
+* Creative Leadership Award   
+* Award for Unsung Hero in Factual TV
+* Storytelling and Innovation Award
+* Jerwood First Cuts Award
+
+===Winners===
+
+=== 2019 ===
+<ref></ref>
+{|class = "wikitable"
+|+
+! '''Award'''
+!'''Winner'''
+|-
+|Grand Jury award
+|Midnight Family by Luke Lorentzen 
+(Special Mention: For Sama, [[Midnight Traveller]])
+|-
+|International award
+|Earth by Nikolaus Geyrhalter
+|-
+|Art award
+|No Data Plan by Miko Revereza
+|-
+|Tim Hetherington award
+|One Child Nation by Nanfu Wang And Jialing Zhang
+|-
+|New Talent award
+|About Love by Archana Atul Phadke
+|-
+|Youth award
+|Baracoa Directed by Pablo Briones And The Moving Picture Boys 
+(Special Mention: Jawline)
+|-
+|Short award
+|America by Garrett Bradley 
+|-
+|Best Digital Experience award
+|Echo by Georgie Pinn, Kendyl Rossi
+|-
+|Best Digital Narrative award
+|Le Lac created by Nyasha Kadandara
+|-
+|Doc Audience award
+|For Sama by [[Waad Al-Kateab]], Edward Watts
+|-
+|Alternate Realities Audience award
+|Algorithmic Perfumery by Frederik Duerinck
+|-
+|The Whickers Film & TV Funding award
+|All That Remains by Amanda Mustard
+|-
+|The BBC Three pitch
+|Rebecca Southworth, Ashley Turner
+|-
+|The Joseph Rowntree Foundation X Guardian pitch
+|Edwin Mingard And Elizabeth Benjamin (Stoke Film) And Hazel Falck - United Voices Of The World
+|-
+|The Channel 4 First Cut pitch
+|Ashley Francis-Roy
+|}
+
+==== 2018 ====
+<ref></ref>
+{| class = "wikitable"
+|+
+! '''Award'''
+!'''Winner'''
+|-
+|Grand Jury Award
+|The Silence of Others 
+(Almudena Carracedo, Robert Bahar - Spain/USA)
+|-
+|Environmental Award
+|Wild Relatives 
+(Jumana Manna - Lebanon/Norway/Germany)
+|-
+|To, Hetherington Award
+|Kinshasa Makambo 
+(Dieudo Hamadi - DRC/France/Switzerland/Germany/Norway)
+|-
+|IlluminateAward
+|América 
+(Erick Stoll, Chase Whiteside - USA)
+|-
+|Art Doc Award
+|Music When The Lights Go Out 
+(Ismael - Caneppele Brazil)
+|-
+|New Tallent Award
+|Minding the Gap 
+(Bing Liu - USA)
+|-
+|Youth jury Award
+|Amal 
+(Mohamed Siam - Denmark/Egypt/France/Germany)
+|-
+|Short Doc Award
+|Black Sheep 
+(Ed Perkins - UK)
+|-
+|Alternative Reality Virtual Reality Awards
+|Face to Face 
+(Michelle Gabel and Michaela Holland - UK)
+|-
+|Alternative Realities Interactive Award
+|The Voice of the Unicorn 
+(Richard Butchins - Japan/UK)
+|-
+|Doc Audience Award
+|Minding the Gap 
+(Bing Liu - USA)
+|-
+|Alternative Realities Audience Award
+|Grenfell: our Home 
+(Jonathan Rudd - UK)
+|-
+|The Whickers Film & TV Funding Award
+|Mirror Mirror On the Wall 
+(Sascha Schöberl - Germany/China)
+|-
+|Doc/Dispatch Award
+|Notes from Dunblane: Lessons From A School Shooting 
+(Kim Snyder - UK)
+|}
+
+==== 2017 ====
+<ref></ref>
+{| class="wikitable"
+|+
+!'''Award'''
+!'''Winner'''
+|-
+|Grand Jury Award supported by Screen International & Broadcast 
+|[[City of Ghosts (2017 film)|City of Ghosts]]
+Special mention: [[The Work (film)|The Work]] and [[The Death and Life of Marsha P. Johnson]]
+|-
+|Environment Award supported by Discovery Communications
+|A River Below
+Special mention: The Last Animals
+|-
+|Tim Hetherington Award supported by [[Dogwoof]]
+|[[Strong Island (Film)|Strong Island]]
+|-
+|Illuminate Award developed with Wellcome
+|[[Unrest (2017 film)|Unrest]]
+|-
+|Art Doc Award
+|City of the Sun
+Special mention: Brimstone and Glory
+|-
+|New Talent Award
+|Artemio
+Special mention: Übermensch
+|-
+|Youth Jury Award
+|69 Minutes of 86 Days
+Special mention: Rat Film
+|-
+|Short Doc Award supported by Virgin Money Sheffield Lounge
+|The Rabbit Hunt
+Special mention: Edith+Eddie
+|-
+|Doc Audience Award supported by Curzon Home Cinema
+|The Work
+|-
+|Alternate Realities Virtual Reality Award
+|[[Unrest (2017 film)|Unrest]] VR
+|-
+|Alternate Realities Interactive Award
+|My Grandmother's Lingo
+|-
+|Alternate Realities Audience Award
+|Munduruku: The Fight to Defend the Heart of the Amazong
+|-
+|Whicker's World Foundation Awards
+|Funding Award Winner: [[Pailin Wedel]] for Hope Frozen
+Funding Award Runner Up: Duncan Cowles for Silent Men
+
+The Sage Award Winner: Steven Carne for My NHS: Voices from the Grassroots
+
+The Sage Award Runner Up: Roy Delaney for The Bard's Wife
+|-
+|Doc/Dispatch Prize supported by Deutsche Welle
+|The Fight
+|}
+
+==== 2016 ====
+<ref></ref>
+
+{| class="wikitable" style="width:610px;" 
+|- 
+! scope="col" style="width:260px;"| Award 
+! scope="col" style="width:350px;"| Winner 
+|- 
+| Grand Jury Award 
+| ''[[Cameraperson]]''
+Special mention: ''[[The Settlers (film)|The Settlers]]''
+|- 
+| Interactive Award 
+| ''New Dimensions in Testimony''
+Special mention: ''[[Walden, a Game]]''
+|- 
+| Environmental Award
+| ''SEED: The Untold Story''
+Special mention: ''Death By Design''
+|- 
+| Short Doc Award
+| ''I'm Not From Here''
+|- 
+| Youth Jury Award
+| ''Sonita''
+|- 
+| Student Doc Award
+| ''My Aleppo''
+|- 
+| Tim Hetherington Award
+| ''[[Tempestad]]''
+Special mention: ''[[Hooligan Sparrow]]''
+|-
+| VR Award
+| ''[[Notes on Blindness|Notes on Blindness: Into Darkness]]''
+Special mention: ''Home – An Immersive Spacewalk Experience''
+|-
+| Dr Clifford Shaw Feature Doc Audience Award
+| ''Presenting Princess Shaw''
+|-
+| Audience Award for Short Doc
+| ''Tarikat''
+|-
+| Audience Award for Alternate Realities Interactive Project
+| ''New Dimensions in Testimony''
+|-
+| Audience Award for Alternate Realities VR Project
+| ''Home – An Immersive Spacewalk Experience''
+|-
+| Creative Leadership Award
+| [[Sheila Nevins]]
+|-
+| Award for Unsung Hero in Factual TV
+| Jan Tomalin
+|-
+| Storytelling and Innovation Award
+| ''[[Notes on Blindness]]''
+|-
+| Whicker's World Funding Award
+| ''Burma's Lost Royals''
+Runner up: ''Americaville''
+|-
+| Whicker's World Vet Award
+| ''Fluechtlinge''
+|-
+| Whicker's World Audio Award
+| ''Little Volcanoes''
+Runner up: ''The Dhamazzedi Bell''
+|}
+
+==== 2015 ====
+
+The awards were held on 10 June 2015 at the Crucible Theatre.<ref name="real2" />
+
+{| class="wikitable" style="width:610px;" 
+|- 
+! scope="col" style="width:260px;"| Award 
+! scope="col" style="width:350px;"| Winner 
+|-
+| style="width:260px;"| Sheffield DocFest Audience Award 
+| style="width:350px;"| ''[[The Look of Silence]] (feature doc), Dear Araucaria (short doc), Disney Animated (interactive project)''
+|- 
+| Grand Jury Award 
+| ''[[A Syrian Love Story]]''
+|- 
+| Interactive Award 
+| ''[[Clouds Over Sidra]]''
+
+Special mention: ''[[Do Not Track (documentary)|Do Not Track]]''
+|- 
+| Environmental Award
+| ''[[How to Change the World]]''
+
+Special mention: ''[[Landfill Harmonic]]''
+|- 
+| Short Doc Award
+| ''[[Starting Point (film)|Starting Point]]''
+|- 
+| Youth Jury Award
+| ''[[3 1/2 Minutes, 10 Bullets]]''
+|- 
+| Student Doc Award sponsored by [[London Film Academy]]
+| ''The Archipelago'' 
+|- 
+| Tim Hetherington Award
+| ''[[Cartel Land]]'' 
+|- 
+| Inspiration Award
+| [[Heather Croall]]
+|- 
+| In The Dark Audio Award
+| ''The Woman on Ice'' 
+|}
+
+==== 2014 ====
+
+The awards were held on 12 June 2014. For the first time, the award-winning documentary short automatically qualifies for consideration for the [[Academy Awards]].<ref name="real2" />
+
+{| class="wikitable" style="width:610px;" 
+|- 
+! scope="col" style="width:260px;"| Award 
+! scope="col" style="width:350px;"| Winner 
+|-
+| style="width:260px;"| Sheffield DocFest Audience Award 
+| style="width:350px;"| ''Still The Enemy Within''
+|- 
+| Special Jury Prize 
+| ''Attacking The Devil: Harold Evans and the Last Nazi War Crime''
+
+Special mention: ''[[Night Will Fall]]''
+|- 
+| Sheffield Innovation Award sponsored by [[BT TV|BT Vision]] 
+| ''[[Highrise|Highrise (documentary)]]''
+|- 
+| Sheffield Green Award
+| ''Unearthed''
+|- 
+| Sheffield Shorts Award
+| ''Amanda F***ing Palmer on the Rocks''
+|- 
+| The Wintonick Award
+| ''Vessel''
+|- 
+| Sheffield Youth Jury Award
+| ''[[The Internet's Own Boy: The Story of Aaron Swartz]]''
+|- 
+| Student Doc Award
+| ''Our Curse'' 
+|- 
+| Tim Hetherington Award
+| ''Profession: Documentarist'' 
+|- 
+| Inspiration Award
+| [[Laura Poitras]]
+|}
+
+A Lifetime Achievement Award was presented to [[Roger Graef]].<ref name="bbc3">[https://www.bbc.co.uk/news/entertainment-arts-27811419 ''Harold Evans film Attacking The Devil wins Sheffield DocFest award''], BBC News, 12 June 2014. Retrieved 4 August 2014</ref>
+
+==== 2013 ====
+
+The awards were held on 16 June 2013, and presented by [[Jeremy Hardy]].
+
+{| class="wikitable" style="width:610px;" 
+|- 
+! scope="col" style="width:260px;"| Award 
+! scope="col" style="width:350px;"| Winner 
+|-
+| style="width:260px;"| Sheffield DocFest Audience Award 
+| style="width:350px;"| Joint winners: ''[[The Act of Killing]]'' and ''[[Particle Fever]]''
+|- 
+| Special Jury Prize 
+| ''[[The Act of Killing]]''
+
+Special mention: ''Mothers''
+|- 
+| Sheffield Innovation Award sponsored by [[BT TV|BT Vision]] 
+| ''Alma, a Tale of Violence''
+|- 
+| Sheffield Green Award
+| ''[[Pandora's Promise]]''
+|- 
+| Sheffield Shorts Award
+| ''Slomo''
+|- 
+| Sheffield Youth Jury Award
+| ''[[God Loves Uganda]]''
+|- 
+| Student Doc Award
+| ''Boys'' 
+|- 
+| Tim Hetherington Award
+| ''[[The Square (2013 film)|The Square]]'' 
+|- 
+| EDA Award for Best Female-Directed Film
+| ''[[Rafea: Solar Mama|Rafea Solar Mama]]''
+|- 
+| Inspiration Award
+| [[Nick Fraser]], editor of the BBC's ''[[Storyville (TV series)|Storyville]]''
+|}
+
+The [[Alliance of Women Film Journalists]] also presented a Special EDA Award to Sheffield DocFest's Festival Director, [[Heather Croall]], naming her 2013's Ambassador of Women's Films.<ref name="screendailyawards">Michael Rosser, [http://www.screendaily.com/news/act-of-killing-wins-at-doc/fest/5057403.article ''The Act of Killing takes top prize at Sheffield DocFest ''], screendaily.com. Retrieved 16 June 2013</ref><ref name="about2013awards">Jennifer Merin, [http://documentaries.about.com/od/recommendeddocumentaries/a/Sheffield-Doc-fest-2013-Award-Winners.htm ''Sheffield DocFest 2013 - Award Winners''] , about.com. Retrieved 16 June 2013</ref>
+
+==== 2012 ====
+The awards were held on 17 June 2012.
+
+{| class="wikitable" style="width:610px;" 
+|- 
+! scope="col" style="width:260px;"| Award 
+! scope="col" style="width:350px;"| Winner 
+|-
+| style="width:260px;"| Sheffield DocFest Audience Award 
+| style="width:350px;"| ''[[5 Broken Cameras]]''
+|- 
+| Special Jury Prize 
+| ''Marina Abramović: The Artist is Present''
+|- 
+| Sheffield Innovation Award sponsored by [[BT TV|BT Vision]] 
+| ''[[Bear 71]]'' 
+|- 
+| Sheffield Green Award
+| ''Law of the Jungle''
+|- 
+| Sheffield Shorts Award
+| ''The Globe Collector''
+|- 
+| Sheffield Youth Jury Award
+| ''[[Photographic Memory (film)|Photographic Memory]]''
+|- 
+| Student Doc Award
+| ''[[The Betrayal – Nerakhoon]]'' 
+|- 
+| EDA Award for Best Female-Directed Film
+| ''Going Up The Stairs''
+|- 
+| Inspiration Award
+| [[Penny Woolcock]]
+|}
+
+====2011====
+{| class="wikitable" style="width:610px;" 
+|- 
+! scope="col" style="width:260px;"| Award 
+! scope="col" style="width:350px;"| Winner 
+|-
+| style="width:260px;"| Sheffield DocFest Audience Award 
+| style="width:350px;"| ''Give Up Tomorrow'' 
+|- 
+| Special Jury Prize 
+| ''[[The Interrupters]]''
+|- 
+| Sheffield Innovation Award sponsored by [[BT TV|BT Vision]] 
+| ''[[Welcome to Pine Point]]''
+|- 
+| Sheffield Green Award
+| ''[[You've Been Trumped]]'' 
+|- 
+| Sheffield Youth Jury Award
+| ''[[We Are Poets]]''
+|- 
+| Student Doc Award
+| ''Eighty Eight''
+|- 
+| Inspiration Award
+| [[Nick Broomfield]]
+|}
+
+A Lifetime Achievement Award was presented to [[Albert and David Maysles|Albert Maysles]].
+
+====2010====
+
+{| class="wikitable" style="width:610px;" 
+|- 
+! scope="col" style="width:260px;"| Award 
+! scope="col" style="width:350px;"| Winner 
+|-
+| style="width:260px;"| Sheffield DocFest Audience Award 
+| style="width:350px;"| Joint winners: ''Father, Son and the Holy War'' and ''Scenes from a Teenage Killing''
+|- 
+| Special Jury Prize 
+| ''Pink Saris''
+
+Special mention: ''[[Nostalgia for the Light]]''
+|- 
+| Sheffield Innovation Award 
+| ''[[The Arbor]]''
+
+Special mention: ''Prison Valley''
+|- 
+| Sheffield Green Award
+| ''Rainmakers''
+
+Special mention: ''[[Into Eternity (film)|Into Eternity]]''
+|- 
+| Sheffield Youth Jury Award
+| ''[[The Battle for Barking]]''
+
+Special mention: ''[[Marathon Boy]]''
+|- 
+| Student Doc Award
+| ''No Easy Time''
+|- 
+| Inspiration Award
+| [[Kim Longinotto]]
+|}
+
+==== 2009 ====
+{| class="wikitable" style="width:610px;" 
+|- 
+! scope="col" style="width:260px;"| Award 
+! scope="col" style="width:350px;"| Winner 
+|-
+| style="width:260px;"| Sheffield DocFest Audience Award 
+| style="width:350px;"| ''[[Junior (2008 film)|Junior]]''
+|- 
+| Special Jury Prize 
+| ''[[Videocracy (film)|Videocracy]]''
+|- 
+| Sheffield Innovation Award 
+| ''LoopLoop''
+
+Special mention: The Big Issue
+|- 
+| Sheffield Green Award
+| ''Blood of the Rose''
+|- 
+| Sheffield Youth Jury Award
+| ''[[Sons of Cuba]]''
+|- 
+| Student Doc Award
+| ''Arsey Versey''
+|- 
+| Inspiration Award
+| [[Adam Curtis]]
+|}
+
+== Films ==
+Sheffield DocFest's film programme showcases international documentaries and new works of [[non-fiction]].
+
+The Film programme includes:
+* Over 150 screenings of feature, mid-length and short documentaries and works of [[non-fiction]] each year.
+* Q&As with the filmmakers and [[protagonist]]s of the films.
+* A strand of panels corresponding to the main programme, featuring filmmakers and protagonists of the films, including sessions, workshops, and pitching competitions.<ref></ref>
+* Free outdoor screenings of U-rated documentaries.<ref></ref>
+* A series of films In Competition for prestigious awards.<ref name="realscreen.com"></ref>
+
+== Alternate Realities ==
+
+Sheffield DocFest runs a number of programmes focused on new media development in interactive and immersive projects and [[virtual reality]], titled Alternate Realities.
+
+The Alternate Realities programme includes:
+
+* The '''Alternative Realities Summit''', which is a full day of sessions exploring the [[Digital Revolution|digital revolution]] in broadcasting.<ref name="FirstForBusiness" /> Delegates can network with representatives from the film and TV industry, which have included keynote speakers such as Google's Jessica Brillhart,<ref></ref> [[BBC North]]'s [[Richard Deverell]], Frank Rose, Steven Johnson and [[Katerina Cizek]] from ''[[Highrise (documentary)|Highrise]]''. The day includes breakout sessions and round table discussions.<ref name="moviescopeschedule" /><ref name="picturevillepussyriot" />
+* The '''Alternative Realities''' '''Market''', which is a pitching event for interactive and digital projects<ref name="televisualhighlights" /> run in a similar way to the festival's [[#MeetMarket|MeetMarket]]. It took place for the first time in 2013, when 27 project teams pitched to 85 cross-platform decision makers.<ref>Nicola Lees, [http://www.tvmole.com/2013/06/hidden-treasure-secret-sources-of-documentary-funding ''Hidden Treasure: Secret Sources of Documentary Funding''], tvmole.com, 25 June 2013</ref>
+* A strand of '''Alternative Realities''' '''panels''' during the main Festival conference programme, which includes sessions, commissioning editor panels, workshops, project showcasing, and cross-platform pitching competitions.
+* The '''Alternative Realities''' '''Exhibition''', which shows and hosts interactive and VR including those commissioned especially for the Festival. This is also a space where delegates can meet and network.<ref name="realscreenpunk" />
+* '''Meet the Maker''' sessions, which allow audiences to meet the artists behind the projects featured in the exhibition for informal Q&As.<ref></ref>
+In 2017, Alternate Realities at Sheffield DocFest was awarded [[Arts Council England]] NPO status, helping the programme to grow even further.<ref></ref>
+
+== Talks & Sessions ==
+Sheffield DocFest's Talks & Sessions programme features high-profile speakers, industry creatives, and documentary talent in a variety of discussions, large public talks, commissioning question panels, interviews, and showcasing sessions.
+
+Past high-profile speakers include [[David Attenborough|Sir David Attenborough]],<ref></ref> [[Louis Theroux]],<ref name=":8"></ref> [[Nick Broomfield]],<ref name=":8" /> [[Stacey Dooley]],<ref></ref> [[Joanna Lumley]],<ref name=":9"></ref> [[Reggie Yates]],<ref name=":7" /> [[Walter Murch]],<ref></ref> [[Michael Moore]],<ref name=":9" /> [[Kim Longinotto]],<ref></ref> [[Tilda Swinton]],<ref name=":10"></ref> [[D. A. Pennebaker]],<ref name=":10" /> [[John Akomfrah]],<ref></ref> Brett Morgan,<ref></ref> [[Sue Perkins]],<ref></ref> and [[Joan Rivers]].<ref></ref>
+
+== Marketplace & Talent ==
+
+[[File:Meetmarket.jpg|thumb|right|Meetmarket]]
+
+=== MeetMarket & Alternate Realities Market ===
+MeetMarket & Alternate Realities Market is a [[documentary]] pitching event held at Sheffield DocFest, where filmmakers pitch their project ideas one-on-one to UK and international broadcasters, funders and distributors.
+
+Former Festival Director [[Heather Croall]] introduced MeetMarket to DocFest in 2006 and developed it as an alternative to public pitching (where filmmakers pitch to a large audience).<ref name="screendailyheather">Michael Rosser, [http://www.screendaily.com/festivals/heather-croall-sheffield-doc/fest/5057158.article ''Heather Croall, Sheffield DocFest''], screendaily.com, 10 June 2013</ref> Each meeting is match-made and scheduled with relevant Decision Makers. Each year there are approximately 65 projects, which hold many one-to-one across two days.<ref name="screendailyrecord">Michael Rosser, [http://www.screendaily.com/news/sheffield-meetmarket-draws-record-pitches/5053496.article ''Sheffield DocFest's MeetMarket draws record pitches''], screendaily.com, 2 April 2013</ref> In 2017, the event was attended by 330 Decision Makers.
+
+Since its introduction, nearly 10,800 meetings have taken place for 609 documentary and digital projects (as of July 2017).
+
+All meetings held at MeetMarket have been requested by both parties, meaning it's more likely for a deal to be made. While the focus is on achieving funding and [[distribution (business)|distribution]], participants also benefit from advice on production, distribution, exhibition, marketing and outreach. Filmmaker [[Guy Davidi]] said "Pitching in intimate round-table sessions was a big comfort. It reduces tension and competitiveness and makes the whole thing much more relaxed and fun. We have created important connections and in one case it led directly to an investment."<ref name="broadcastreport">[http://sheffdocfest.com/attachments/177268/MeetMarket_Report_2006-2012.pdf ''MeetMarket report 2006-2012''] , ''Broadcast'', 2012. Retrieved 9 January 2014</ref>
+
+In 2017, 63 projects from 22 countries, including new films from [[Michael Moore]], [[Mark Cousins (film critic)|Mark Cousins]], [[Kim Longinotto]], Dionne Walker, [[Laura Poitras]], and [[Jerry Rothwell]], and 24 Alternate Realities projects were selected, including works from Charlotte Mikkelborg, Richard Nockles, and INK Stories. 330 Decision Makers took part, including representatives from Submarine, [[BBC Earth]] VR, [[Royal Shakespeare Company]], [[National Film Board of Canada|The National Film Board of Canada]], [[Vice Media|VICE]], and Pulse Films.<ref></ref>
+
+In 2016, 64 projects from 27 countries were chosen to participate, including new films from [[Orlando von Einsiedel]], [[Jennifer Brea]], [[Mike Lerner (filmmaker)|Mike Lerner]], Stefan Kloos, [[Nick Fraser]], Christoph Jorg, [[David Letterman]], Al Morrow, [[Jeanie Finlay]], [[André Singer (producer)|Andre Singer]], Amir Amiriani, and Catherine Allen. 25 Alternate Realities Market projects were chosen, including works from [[Katharine Round]], Alex Pearson, Darren Emerson, and [[Jennifer Brea]]. 313 Decision Makers took part in the MeetMarket, Alternate Realities Market and various other Marketplace initiatives from organisations including [[Red Bull]], [[Canal+]], [[Al Jazeera]], [[Discovery Channel|Discovery]], [[National Geographic]], [[Google]], and [[Netflix]].<ref></ref>
+
+In 2015, 64 projects from 19 countries were chosen to participate in MeetMarket from 600 submissions,<ref name="indiewire1" /> including new films from [[John Akomfrah]], [[Lindsey Dryden]] and [[Maheen Zia]]. 300 executives, distributors, commissioners, funders, advisors and buyers across [[documentary]] and [[digital media]] took part in the MeetMarket and Marketplace activity including [[The Guardian]], [[BBC]], [[Arte]], [[Dogwoof]] and [[Channel 4]].
+
+In 2014, 64 projects were chosen to participate in MeetMarket,<ref name="indiewire1" /> including new films from [[Franny Armstrong]], [[William Karel]], and [[Stanley Nelson Jr.]] 290 investors, commissioners and production partners took part including commissioners from [[Netflix]], ''[[Dazed & Confused (magazine)|Dazed]]'', ''[[Vice (magazine)|Vice]]'', [[Vimeo]] and [[Nowness]] and distributors [[Oscilloscope Laboratories]], [[Dogwoof]] and [[PBS]].<ref name="real2" />
+
+In 2013 MeetMarket attracted over 600 applications. Over 60 projects from 18 countries were chosen to participate. Filmmakers included [[Franny Armstrong]], [[Marshall Curry]], [[Jeanie Finlay]], [[Alex Gibney]], [[Phil Grabsky]], [[Brian Hill (director)|Brian Hill]], [[Victor Kossakovsky]] and [[Joshua Oppenheimer]].<ref name="realscreenheather" /> The selection also included six cross-platform projects.
+
+MeetMarket films and Alternate Realities Market projects are tracked for success across awards and other [[film festival]]s. Films and projects have gone on to win awards at [[Sundance Film Festival|Sundance]], [[Tribeca Film Festival|Tribeca]], [[International Documentary Film Festival Amsterdam|IDFA]], [[Hot Docs Canadian International Documentary Festival|Hot Docs]] and DocFest.<ref name="broadcastreport" />
+
+Notable films to achieve funding through MeetMarket include [[Unrest (2017 film)|Unrest]] and Unrest VR,<ref></ref> [[Notes on Blindness]] and Notes on Blindness: Into Darkness,<ref></ref> Joshua Oppenheimer's ''[[The Act of Killing]]''<ref name="sightsoundbestof" /> and ''[[The Look of Silence]]'', ''[[Searching for Sugarman]]'', [[Jeanie Finlay]]'s ''[[The Great Hip Hop Hoax]]'',<ref>http://realscreen.com/2013/06/13/docfest-13-finlay-reveals-the-great-hip-hop-hoax/, Kelly Anderson, 'DocFest '13: Finlay reveals "The Great Hip Hop Hoax"', ''realscreen.com'', 13 June 2013</ref> ''[[Ping Pong (2012 film)|Ping Pong]]'', ''[[5 Broken Cameras]]'', and ''[[God Loves Uganda]]''.<ref>Michael Rosser, [http://www.screendaily.com/news/doc/fest-delegates-up-18/5057525.article Sheffield DocFest delegates up 18%], screendaily.com, 19 June 2013. Retrieved 27 January 2014</ref>
+
+=== Pitches ===
+The Marketplace plays host to further initiatives, such as pitches and prize competitions. Pitched projects are selected from an open call, cover a range of topics, and offer funding, in-kind support and Festival Pass prizes.
+
+Previous pitches include:
+* The [[British Film Institute|BFI]] Film Fund
+* The Whicker's World Foundation Film & TV Award, offering £80,000 to the winning pitch
+* [[BBC]] Northern Docs Pitch
+* [[The Guardian]] Pitch
+* [[Vice Media|VICE]] Rule Britannia Pitch
+* The [[Channel 4]] First Cut Pitch
+* [[Virgin Money]] Shorts Competition<ref></ref>
+
+=== Training Initiatives ===
+The Marketplace also holds All Year training initiatives, including Future Producer School. '''Future Producer School''', created by Sheffield DocFest and Bungalow Town Productions, has successfully run every year since its launch in 2014. Aimed at emerging producers currently working in the industry, the primary outcome of Future Producer School is to develop industry partnerships and provide industry knowledge and experience to up-and-coming producers that have the ambition to become international feature documentary producers.<ref></ref> Notable alumni include Eloise King, Julia Nottingham, [[Lindsey Dryden]], and Sky Neal.<ref></ref>
+
+'''On-Screen Talent Market''' is a Sheffield DocFest initiative to connect charismatic subject-specialists with producers, commissioners, and other Decision Makers looking for fresh faces for their programmes. The programme includes an intensive morning training programme giving insight into the industry via first-hand encounters with established professionals, and is designed for the experts to hone their skills in presenting themselves to the media. This is followed by an afternoon of match-made one-to-one meetings between the talent and television executives. The programme is designed and delivered in collaboration with the Academic Ideas Lab.<ref></ref>
+
+Doc/Dinner allows a group of emerging filmmakers to dine with industry executives to exchange ideas and expertise, hosted by Yates. In 2017, execs from the [[BBC]], [[Channel 4]], [[Vice Media|VICE]], Pulse Films and [[The Guardian]] met with 20 young filmmakers.<ref></ref>
+
+=== Delegations ===
+DocFest hosts a number of international and national delegations each year, including delegations from Norway,<ref></ref> [[Scotland]],<ref></ref> [[Palestine (region)|Palestine]],<ref></ref> [[Indonesia]], [[Jordan]], [[Cuba]] and [[Greater Europe|Wider Europe]].<ref></ref>
+
+== Social Events & Networking ==
+Each year, DocFest hosts parties and drinks events during the [[Festival]] and year-round, including the annual Guilty Pleasures Party held at both DocFest<ref></ref><ref></ref> and in [[Amsterdam]] at [[International Documentary Film Festival Amsterdam|IDFA]].<ref></ref>
+
+Nightly parties are themed around the programme and in 2017 included: the I Will Always Love Docs Party, celebrating the premiere of [[Whitney: Can I Be Me|Whitney "Can I Be Me"]];<ref></ref> a Great Get Together lunchtime picnic celebrating the life and legacy of [[Jo Cox|Jo Cox MP]], before the premiere of Closing Night Film Jo Cox: Death of an MP;<ref></ref> and in 2016, and the Vogue, Strike a Pose Party, celebrating the premieres of Strike a Pose and Kiki.<ref></ref>
+
+Each year also sees the Award Ceremony hosted at [[Crucible Theatre|Sheffield's Crucible Theatre]], honouring the best films of the [[Festival]].<ref name="realscreen.com"/> 
+Each Festival sees dozens of networking drinks hosted by sponsors and supporters, including [[Image Nation|Image Nation Abu Dhabi]], [[The Academy of Motion Picture Arts and Sciences]], [[Shooting People]], and more.<ref></ref>
+
+== All Year programme ==
+
+DocFest activities outside of the five-day festival include:
+
+* Films, for example DocFest presents which takes a selection of the Festival's film programme around the UK, and screenings at [[Latitude Festival]].<ref>'Theatre, cabaret and 3D show', ''Eastern Daily Press'', 18 July 2013</ref>
+* Alternate Realities Tours across the UK to various venues and [[Latitude Festival]]<ref name=":6" /> and internationally. In 2017, DocFest toured Latin America with the 'Realidades Alternativas' exhibition.<ref></ref>
+* Talks & Sessions across various film festivals, featuring members of the DocFest staff.<ref></ref>  
+* Marketplace & Talent, including ongoing mentoring programme for filmmakers.<ref name="ExposedWhatsUp" />
+* Networking events for filmmakers.   
+* A structured [[internship]] and [[Volunteering|volunteer]] programme for young people.
+
+== Festival directors ==
+* Liz McIntyre, 2015–present<ref name="broadcastliz" />
+* [[Heather Croall]], 2006–2014<ref name="heatherleaves" />
+* Brent Woods, 2002–2005<ref>Tim Dams, [http://www.screendaily.com/woods-steps-down-as-sheffield-documentary-fest-director/4024644.article ''Woods steps down as Sheffield Documentary fest director''], screendaily.com, 6 October 2005</ref>
+* Kathy Loizou, 1996–2001<ref>[http://www.broadcastnow.co.uk/festival-head-quits/1135592.article ''Festival Director Quits''], ''Broadcast'', 25 January 2002</ref>
+* Paula Shirley, 1995
+* [[Midge MacKenzie]], 1994<ref name="quidnunc" />
+
+== Festival chairpersons ==
+Alex Cooke (producer) 2019–present (Deputy chair - Brian Woods 2016–present)
+* [[Alex Graham (producer)|Alex Graham]], 2011–2019<ref name="ypalex" />
+* [[Steve Hewlett (journalist)|Steve Hewlett]], 2005–2011<ref>Adam Benzine, [http://realscreen.com/2011/06/20/wall-to-walls-graham-to-chair-sheffield-docfest/ ''Wall To Wall's Graham to chair Sheffield DocFest''], realscreen.com, 20 June 2011</ref>
+* Christo Hird, 2000–2004<ref>Havana Marking, [https://www.theguardian.com/film/filmblog/2006/nov/02/northernexposurewhysheffiel ''Northern exposure: Why Sheffield DocFest matters''], ''The Guardian'', 2 November 2006</ref>
+* Roger James, 1997–2000<ref>Andy Fry, [http://realscreen.com/1999/12/01/27505-19991201/ ''Sheffield hits its stride''], realscreen.com, 1 December 1999</ref>
+* Marian Bowan, 1996
+* Peter Symes, 1994–1995
+
+== Board Members ==
+* Peter Armstrong
+* Patrick Holland
+* Ralph Lee
+* Shirani Sabaratnam
+* Helen Scott
+* Ian Wild<ref></ref>
+
+==References==
+
+
+==External links==
+*[http://www.sheffdocfest.com/ Official website]
+*[https://web.archive.org/web/20110725211704/http://www.crossoverlabs.org/news Crossover website] (archived)
+
+
+[[Category:Annual events in the United Kingdom]]
+[[Category:Film festivals in England]]
+[[Category:Culture in Sheffield]]
+[[Category:Digital media organizations]]
+[[Category:Documentary film festivals in the United Kingdom]]
+[[Category:Documentary film organizations]]
+[[Category:Events in Sheffield]]
+[[Category:Festivals in South Yorkshire]]
+[[Category:Film organisations in the United Kingdom]]
+[[Category:Film festivals established in 1994]]
+[[Category:British documentary film awards]]

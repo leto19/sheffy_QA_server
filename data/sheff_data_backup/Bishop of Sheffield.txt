@@ -1,0 +1,61 @@
+
+
+
+
+The '''Bishop of Sheffield''' is the [[Ordinary (officer)|Ordinary]] of the [[Church of England]] [[Diocese of Sheffield]] in the [[Province of York]].
+
+A similar title was first created as a suffragan see in the [[Diocese of York]] in 1901. [[John Quirk]], the only [[Bishop suffragan]] of Sheffield assisted the [[Archbishop of York]] in overseeing [[Diocese of York|that diocese]]. Under [[George V]], the Diocese of Sheffield was created out of the south-western part of the Diocese of York in 1914. The bishop's residence is [[Bishopscroft, Ranmoor|Bishopscroft]], [[Ranmoor]]<ref></ref> — west-south-west of the city centre.
+
+On 31 January 2017, it was announced that [[Philip North]] had been nominated to translate to Sheffield before June 2017,<ref name="pn">[http://www.sheffield.anglican.org/news/next-bishop-of-sheffield-announced Diocese of Sheffield — Next Bishop of Sheffield Announced] (Accessed 31 January 2017)</ref> but North withdrew his acceptance of the nomination in March officially citing "personal reasons". Since his nomination, there had been a number of public articles challenging the appropriateness of his appointment, based on his rejection of the ordination of priests who are women and the number of priests in Sheffield diocese who are women.<ref></ref>
+
+On 7 April 2017, it was announced that [[Pete Wilcox]]<ref name="wilc"></ref> was to be consecrated Bishop of Sheffield on 22 June 2017.<ref name="pw-cons">[http://www.sheffield.anglican.org/news/the-consecration-of-the-very-revd-dr-pete-wilcox-22-june-2017 Diocese of Sheffield — Consecration of Pete Wilcox, 22 June 2017] (Accessed 6 May 2017)</ref> He was elected to the See by the [[College of Canons]] of [[Sheffield Cathedral]] on 5 May 2017;<ref>[https://twitter.com/PeteWilcox1564/status/860581045200199681 Twitter — Pete Wilcox] (Accessed 6 May 2017)</ref> and his election was [[confirmation of bishops|confirmed]] on 5 June 2017 at [[York Minster]].<ref name="pw-twit">[https://twitter.com/PeteWilcox1564/status/871473291210477569 Pete Wilcox on Twitter] (Accessed 5 June 2017)</ref><ref name="pw-mins">[https://yorkminster.org/home.html York Minster homepage] — [https://web.archive.org/web/20170605094134/https://yorkminster.org/home.html Archived at archive.org, 5 June 2017] (Accessed 5 June 2017)</ref>
+
+==List of bishops==
+
+{| class="wikitable" style="width:95%;" border="1" cellpadding="2"
+! colspan="4" style="background-color: #7F1734; color: white;"|Bishops of Sheffield 
+|-valign=center
+! style="background-color:#D4B1BB" width="10%"|From
+! style="background-color:#D4B1BB" width="10%"|Until
+! style="background-color:#D4B1BB" width="30%"|Incumbent
+! style="background-color:#D4B1BB" width="45%"|Notes
+|-valign=top bgcolor="white"
+|align=center|1914 ||align=center|1939 ||'''[[Leonard Burrows]]''' ||Formerly Suffragan [[Bishop of Lewes]].
+|-valign=top bgcolor="#F7F0F2"
+|align=center|1939 ||align=center|1962 ||'''[[Leslie Hunter (bishop)|Leslie Hunter]]''' ||
+|-valign=top bgcolor="white"
+|align=center|1962 ||align=center|1971 ||'''[[John Taylor (bishop of Sheffield)|John Taylor]]''' ||Formerly Principal of [[Wycliffe Hall]] 
+|-valign=top bgcolor="#F7F0F2"
+|align=center|1972 ||align=center|1979 ||'''[[Gordon Fallows]]''' ||Formerly Suffragan [[Bishop of Pontefract]]. Died in office.
+|-valign=top bgcolor="white"
+|align=center|1980 ||align=center|1997 ||'''[[David Lunn]]''' ||
+|-valign=top bgcolor="#F7F0F2"
+|align=center|1997 ||align=center|2008 ||'''[[Jack Nicholls]]''' ||Formerly Suffragan [[Anglican Bishop of Lancaster|Bishop of Lancaster]].
+|-valign=top bgcolor="white"
+|align=center|2008<!--probable confirmation of election Dec 2008--> ||align=center|6 July 2016 ||'''[[Steven Croft (bishop)|Steven Croft]]''' || Elected November 2008; consecrated January 2009; translated to [[Bishop of Oxford|Oxford]].<ref name="scceox">[http://www.oxford.anglican.org/legal-ceremony-moves-bishop-steven-step-closer/ Diocese of Oxford — Legal ceremony brings Bishop Steven a step closer]  &amp; [http://www.oxford.anglican.org/letter-bishop-steven/ Diocese of Oxford — Letter from Bishop Steven] (Both accessed 8 July 2016)</ref>
+|-valign=top bgcolor="#F7F0F2"
+|align=center|''2016'' ||align=center|''5 June 2017'' ||''[[Peter Burrows]], [[Bishop of Doncaster]]'' || <ref name="bur">[http://www.sheffield.anglican.org/news/the-search-for-a-new-bishop-of-sheffield Diocese of Sheffield — The search for a new Bishop of Sheffield…] (Accessed 12 July 2016)</ref>
+|-valign=top bgcolor="white"
+|align=center|''January 2017'' ||align=center|''March 2017'' ||''[[Philip North]], bishop-nominate'' || Withdrew 
+|-valign=top bgcolor="#F7F0F2"
+|align=center| 5 June 2017 ||align=center|present ||'''[[Pete Wilcox]]''' || Formerly [[Dean of Liverpool]]. [[canonical election|Elected]] 5 May, [[confirmation of bishops|confirmed]] on 5 June,<ref name="pw-twit" /><ref name="pw-mins" /> and consecrated 22 June 2017.<ref name="pw-cons" />
+|-valign=top bgcolor="white"
+|align=center colspan="4"| Source(s):<ref name="crockfordsweb813"></ref><ref></ref>
+|}
+
+==Assistant bishops==
+Among those who have served the diocese as assistant bishops have been:
+*1947–1971: [[Vincent Gerard (bishop)|Vincent Gerard]], Vicar of [[Rotherham]] (until 1960), then [[Canon Residentiary]] of [[Sheffield Cathedral]] (until 1969) and former [[Bishop of Waiapu]]<ref></ref>
+*19631966 (ret.): [[Michael Hollis]], Rector of [[Todwick]] (until 1964) and former [[Diocese of Madras of the Church of South India|Bishop in Madras]]<ref></ref>
+*1943 (ret.)1947 (d.): [[Samuel Heaslett]], retired [[Bishop of South Tokyo]] and Presiding Bishop, [[Nippon Sei Ko Kai]]<ref></ref>
+
+==References==
+
+
+==External links==
+* [http://www.sheffield-diocese.org.uk/ Diocese of Sheffield]
+
+
+
+
+[[Category:Bishops of Sheffield|*]]

@@ -1,0 +1,470 @@
+
+
+
+<!-- Commented out: [[File:Sheffield FC.svg|thumb|Logo of Sheffield F.C., the club that devised the original rules{{ffdc|1=Sheffield FC.svg|log=2015 December 2}}]] -->
+[[File:Rules, Regulations, & Laws of the Sheffield Foot-Ball Club (front page) 1859.png|thumb|Title page of the first publication of the Sheffield FC rules (1859)]]
+
+The '''Sheffield Rules''' was a code of [[football]] devised and played in the English city of [[Sheffield]] between 1858 and 1877. The rules were initially created and revised by [[Sheffield F.C.|Sheffield Football Club]], with responsibility for the laws passing to the [[Sheffield and Hallamshire Football Association|Sheffield Football Association]] upon that body's creation in 1867. The rules spread beyond the city boundaries to other clubs and associations in the [[Northern England|north]] and [[English Midlands|midlands]] of England, making them one of the most popular forms of football during the 1860s and 1870s.
+
+In 1863, the newly formed London-based [[Football Association]] (FA) published its [[Laws of the Game (association football)|own laws of football]]. Between 1863 and 1877, the FA and Sheffield laws co-existed, with each code at times influencing the other. Several games were played between Sheffield and London teams, using both sets of rules. After several disputes, the two codes were unified in 1877 when the Sheffield FA voted to adopt the FA laws, following the adoption of a compromise throw-in law by the FA.<ref></ref>
+
+The Sheffield rules had a major influence on how the modern game of [[Association football|football]] developed. Among other things they introduced were the concepts of [[Corner kick|corners]], and [[Indirect free kick|free kicks]] for fouls.<ref name="Potting shed"></ref> Games played under the rules are also credited with the development of heading, following the abolition of the [[fair catch]], and the origins of the goalkeeper and forward positions.<ref>Murphy, pp. 82–83.</ref> In 1867, the [[Youdan Cup|world's first competitive football tournament]] was played under Sheffield Rules.
+
+==Background==
+The oldest recorded football match in Sheffield occurred in 1794 when a game of [[mob football]] was played between Sheffield and [[Norton, Sheffield, South Yorkshire|Norton]] (at the time a [[Derbyshire]] village) that took place at [[Bents Green]]. The game lasted three days, which was not unusual for matches at the time. It was noted that although there were some injuries no-one was killed during the match.<ref>Farnsworth (Sheffield Football: A History), pp. 16–17.</ref> The Clarkehouse Road Fencing Club had been playing football since 1852.<ref>Murphy, p. 39.</ref> The city was home to a number of sports clubs and the popularity of cricket had led to the chairman of [[Sheffield Cricket Club]] to suggest the construction of [[Bramall Lane]].<ref name="Origins">Young, pp. 15–17.</ref>
+
+By the [[1850s in association football|1850s]] there were several versions of football played in [[Independent school (UK)|public schools]] and clubs throughout England.<ref>Mangan, pp. 95–96.</ref> Their rules were generally inaccessible outside of the schools. There the football tended to be unorganised and fairly lawless games known as mob football. Although there are matches between small, equal numbered teams it remained a minority sport until the 1860s.<ref></ref>
+
+During the winter months in 1855 the players of [[Sheffield Cricket Club]] organised informal football matches in order to retain fitness until the start of the new season.<ref name="Origins" /> Two of the players were [[Nathaniel Creswick]] (1826–1917) and [[William Prest]] (1832–1885), both of whom were born in [[Yorkshire]]. Creswick came from a Sheffield family of silver plate manufacturers that dated back several centuries. After being educated at the city's [[Sheffield Collegiate School|Collegiate School]] he became a [[solicitor]]. Prest's family had moved from York while he was a child. His father bought a wine merchants that William subsequently took over. Both men were keen sportsmen. Creswick enjoyed a number of sports including cricket and running. Prest played cricket for the All England XI and also captained Yorkshire on several occasions.<ref>Murphy, pp. 38–39.</ref> The inaugural meeting of Sheffield F.C. took place on 24 October 1857 at Parkfield House in the suburb of [[Highfield, Sheffield|Highfield]].<ref>Farnsworth (Sheffield Football: A History), pp. 21–22.</ref> The original headquarters would become a greenhouse on East Bank Road. The adjacent field was used as their first playing ground.<ref>Hutton, Curry & Goodman, p. 50.</ref>
+
+==History of the laws==
+===Laws of Sheffield Football Club (1858)===
+
+
+
+The first laws of Sheffield Football Club were approved at a general meeting at the [[Adelphi Hotel (Sheffield)|Adelphi Hotel]] on 28 October 1858.<ref name="tims"></ref> The club's minutes book is still available, and records changes made during the laws' development.<ref>Murphy, pp. 41–43.</ref> Notable features of the rules included:<ref>Curry and Dunning (2015), p. 49.</ref>
+
+* Handling was forbidden, with the exception of "pushing" or "hitting" the ball with the hands, and a [[fair catch]] (defined as a catch from another player without the ball touching the ground).
+* "Hacking" (kicking), tripping, and holding opponents were all forbidden, but pushing and charging were allowed.
+* A free kick was awarded for a fair catch, but a goal could not be scored from such a free kick.
+* A goal could be scored only by kicking (the 1858 laws do not specify the dimensions or type of the goal in further detail).
+* The [[throw-in]] was awarded to the first team to touch the ball after it went out of play. The ball had to be thrown in at right-angles to the touchline.
+* When the ball went out of play over the goal-line, there was a "kick-out" from 25 yards.
+* There was no [[Offside (association football)|offside]] law.
+* Like many rules of that era, the Sheffield rules did not dictate the numbers on each side.<ref>Murphy, p. 47.</ref>
+
+The origin of the 1858 Sheffield rules has been the subject of some academic debate. Adrian Harvey denies any public school influence, arguing that the rules were derived from "ideas generally current in the wider society".<ref>Harvey (2005), pp. 95–100.</ref> In response, Tony Collins has demonstrated that there is a substantial similarity in wording between many of the Sheffield rules and the older Rugby School rules.<ref></ref><ref>
+{| class="wikitable" style="text-align: left; font-size: 85%; width: auto; table-layout: fixed;"
+|-
+
+! [[wikisource:Sheffield Rules (1858) (first draft)|Sheffield Rules (1858) (first draft)]]
+
+! [[wikisource:Laws of Football as played at Rugby School (1851)|Rugby School Rules (1851)]]
+|-
+
+| 1. Kick off from Middle must be a place kick.
+
+| i: Kick off from Middle must be a place-kick.
+
+|-
+
+| 2. Kick out must not be from more than twenty five yards out of goal.
+
+| ii: Kick out must not be from more than 25 yards out of goal, nor from more than 10 yards if a place-kick.
+
+|-
+
+| 3. Fair Catch is a Catch direct from the foot of the opposite side and entitles a free kick.
+
+| iii. Fair Catch is a catch direct from the foot.
+
+|-
+
+| 4. Charging is fair in case of a place kick (with the exception of a kick off) as soon as the player offers to kick, but he may always draw back unless he has actually touched the Ball with his foot.
+
+| iv: Charging is fair, in case of a place-kick, as soon as a ball has touched the ground; in case of a kick from a catch, as soon as the player offers to kick, but he may always draw back, unless he has actually touched the ball with his foot.
+
+|-
+
+| 6. Knocking or pushing on the Ball is altogether disallowed. The side breaking this Rule forfeits a free kick to the opposite side.
+
+| vii: Knocking on, as distinguished from throwing on, is altogether disallowed under any circumstances whatsoever.—In case of this rule being broken, a catch from such a knock on, shall be equivalent to a fair catch.
+
+|-
+
+| 7. No player may be held or pulled over.
+
+| xii: No player out of a maul may be held, or pulled over, unless he is himself holding the ball.
+
+|-
+
+| 8. It is not lawful to take the Ball off the ground (except in touch) for any purpose whatever.
+
+| viii: It is not lawful to take the ball off the ground, except in touch, either for a kick or throw on.
+
+|-
+
+| 10. No Goal may be kicked from touch nor by a free kick from a catch.
+
+| xx: No goal may be kicked from touch.
+
+|-
+
+| 11. A ball in touch is dead. Consequently the side that touches it down, must bring it to the edge of the touch, & throw it straight out at least six yards from touch.
+
+| xxi: Touch — A ball in touch is dead; consequently the first player on his side must in any case touch it down, bring it to the edge of touch, and throw it straight out.
+
+|-
+|}</ref> Local influences may also have played a role: many of the original members of Sheffield FC were from the local Collegiate School, which favoured the kicking style of the game, rather than handling the ball. The kicking game was also prevalent in the local villages of [[Penistone]] and [[Thurlstone]].<ref name="The Club"></ref>
+
+The club rules also dictated that any disputes on the field would be resolved by any committee members present&nbsp;— an early reference to the position now occupied by the [[referee]].<ref>Murphy, p. 44.</ref>
+
+At the club's next annual general meeting in October 1859, a committee was appointed to revise the laws and prepare them for publication.<ref></ref> The laws were subsequently published later that year with only minor revisions.<ref></ref><ref></ref>
+
+===Amendment of 1860===
+On 31 January 1860, a meeting was held where it was resolved that Law 8 should be expunged and replaced with "Holding the ball (except in the case of a free kick) or knocking or pushing it on is altogether disallowed".<ref>[http://www.calmview.eu/SheffieldArchives/CalmView/Record.aspx?src=CalmView.Catalog&id=FCR%2f2 Sheffield City Archives FCR/2]; see also Murphy, p. 46.</ref> This left the fair catch as the only form of handling permitted by the laws.
+
+===Amendments of 1861===
+At the annual general meeting of Sheffield FC held in October 1861, the following amendments were made to the rules:<ref name="oct_1861"></ref>
+
+* The kick-out [roughly equivalent to a goal-kick] had to be taken from within 10 yards of the goal (rather than the previous 25 yards). It was clarified that the kick-out should take place whenever the ball went behind the line of the goal-posts without going into goal.
+* Two flags were placed in line with the goal-posts, each flag being four yards to the side of one of the posts.
+* The throw-in had to touch the ground before coming into contact with a player. It was clarified that the throw-in had to be taken from the place where the ball went into touch.
+
+Proposals to ban pushing and to introduce "[[rouge (football)|rouges]]" were rejected.
+
+===Laws of Sheffield FC (1862)===
+
+On 31 January 1862, Sheffield FC held a meeting at which a new set of rules was considered. The rules were confirmed one week later, and published later the same year as Sheffield FC's second formal set of laws.<ref name="rulebook"></ref> The major changes made in the 1862 rules were:<ref name="sheffield_dt_1862"></ref><ref></ref>
+
+* A change of ends at half-time was introduced, but only if no goal was scored in the first half.
+* The dimensions of the goal were specified, with two "goal sticks" 12 feet (4 yards) apart, and a crossbar 9 feet from the ground.
+* The "rouge" was introduced as a tiebreaker.
+
+====The rouge====
+A contemporary newspaper report of the 1862 Sheffield FC meeting reported that the 'most important alteration is the adoption of "rouges," which will have the effect of preventing matches to result in "draws."'<ref name="sheffield_dt_1862"/>
+
+The rouge originated in the [[Eton Field Game]], where it was awarded when a player touched the ball down behind the opponents' goal-line in a somewhat similar manner to today's "try" in rugby.<ref></ref>
+
+Sheffield FC encountered the rouge in a match of 17 December 1860, when the club played against the 58th Regiment, winning by one goal and 10 rouges to one goal and 5 rouges.<ref></ref> Reports of later Sheffield FC games during 1860 and 1861, however, do not mention rouges.<ref>e.g.  </ref> At the club's annual meeting in October 1861, as mentioned above, Sheffield FC specifically rejected a proposal to add rouges to its own code.<ref name="oct_1861"/>
+
+Although the Sheffield laws defining the rouge bore a great deal of similarity to the equivalent rules of the Eton Field Game,<ref>
+{| class="wikitable" style="text-align: left; font-size: 85%; width: auto; table-layout: fixed;"
+|-
+
+! [[wikisource:Sheffield Rules (1862)|Sheffield Rules (1862)]]
+
+! [[wikisource:Laws of the Eton Field Game (1857)|Eton Field Game (1857)]]
+|-
+
+| 11. A rouge is obtained by the player who first touches the ball after it has been kicked between the rouge flags, and when a rouge has been obtained one of the defending side must stand post two yards in front of the goal sticks.
+
+| 5. A "rouge" is obtained by the player who first touches the ball after it has been kicked behind, or on the line of the goalsticks of the opposite side, provided the kicker has been "bullied" by one of more of the opposite party in the act of kicking.
+
+|-
+
+| 12. No rouge is obtained when a player who first touches the ball is on the defending side. In that case it is a kick out as specified in law 2.
+
+| 7. [...] should the ball be first touched by one of the defending party, no rouge is obtained, and the ball must be placed on a line with the goalsticks, and "kicked off" by one of that party. 
+|-
+
+| 13. No player who is behind the line of the goal sticks when the ball is kicked behind, may touch it in any way, either to prevent or obtain a rouge.
+
+| 10. No player who is behind the line of the goalsticks, before the ball be kicked behind, may touch it in any way, either to prevent or obtain a rouge.
+
+|-
+
+| 14. A goal outweighs any number of rouges. Should no goals or an equal number be obtained, the match is decided by rouges.
+
+| 25. A goal outweighs any number of rouges, should no goals or an equal number be obtained, the match is decided by rouges.
+
+|-
+|}</ref> there were also significant differences. Sheffield made use of "rouge flags" on the goal-line at a distance of  from each goal-post (as mentioned above, these flags had been added to the field of play in 1861). A rouge could be scored by touching the ball down only after it had been kicked between the two rouge flags, without going into the goal (Eton did not use rouge flags, permitting a rouge to be scored at any distance from the goal). Sheffield also removed Eton's requirement that the attacking player who kicked the ball behind the goal-line had to be "bullied" (tackled / mauled).
+
+In the Sheffield 1862 rules, as at Eton, the rouge was immediately followed by a set-piece in front of goal ("one of the defending side must stand post two yards in front of the goal sticks"). In the Eton game, we know from detailed descriptions that this situation was somewhat similar to a rugby scrummage.<ref></ref>
+
+The new laws were adopted almost immediately, with Sheffield recorded as beating Norton on 22 February 1862 by "one goal and one rouge to nothing".<ref></ref>  A detailed description of a rouge being scored is found in a contemporary report from the Youdan Cup final of March 1867:<ref></ref> 
+
+===Developments between 1862 and 1867===
+The 1862 laws, like those of 1858, made no provision for offside. In a letter to ''The Field'' in February 1867, Sheffield FC secretary [[Harry Walker Chambers|Harry Chambers]] wrote that Sheffield FC had adopted a rule at the beginning of the 1863 season requiring one opponent to be level or closer to the opponent's goal.<ref name="field"></ref> This claim is supported in a letter from secretary [[William Chesterman]] to the FA in 1863.<ref></ref>
+
+At Sheffield FC's 1865 annual general meeting, it was resolved that "[t]hat for the future we play the [strict] offside rule, but if the other Sheff[iel]d Clubs do not adopt the same rule, we play our Matches with them according to our present rules". Another resolution stated that "a letter [should] be written to Notts Secretary saying that we will adopt the offside rule if they will give up making the mark in case of a free kick, & also the free kick at goal".<ref></ref><ref name="field"/>
+
+This offside law was abandoned at the end of the 1865-66 season, with Sheffield FC reverting to the weaker one-player rule.<ref name="field"/><ref name="AH118"/> A newspaper article of January 1867 reported that '[t]he [stricter, FA-style] off-side rule has been played in Sheffield, but was universally disapproved of. It was found to be the cause of much discontent, and produced a most unsatisfactory state of things, it being so difficult, in the excitement of a close match, to distinguish what players were "off," and what "on" side. ... It was, therefore, abandoned, and now, as formerly, the only restriction upon the position of any player in the field is, that he must not be nearer to his adversaries' goal than the nearest of the defending side.'<ref></ref>
+
+Surviving club records indicate that the rules could be varied for individual matches (e.g. 9 May 1863 v. Garrison "allowed striking & throwing the ball", 28 October 1865 v. Mackenzie "played the offside rules", 11 November 1865 vs. Norton "Played at East Bank to the old rules").<ref name="tims"/>
+
+Sources for the exact laws played during this period are scarce. As noted above, our best source for the offside law during these years is a letter written to ''The Field'' newspaper some years later. A letter sent from club secretary [[William Chesterman]] to the Football Association in February 1866 strongly supported an FA proposal to abolish the fair catch,<ref name="BL2288"></ref> suggesting that there was already some appetite within the club for its removal from the Sheffield code (the fair catch had survived in the 1862 laws, but would later be abolished in the Sheffield Association laws of 1867, as described below). A copy of the newly founded (Sheffield) Mechanics' FC rulebook for 1865-66 is largely identical to the Sheffield FC 1862 laws, but with two variations, which may or may not be related to developments at Sheffield FC:<ref></ref>
+
+* a free kick is awarded for illegal handling (as in the draft Sheffield FC laws of 1858 and the future Sheffield Association laws of 1867)
+* when the ball is kicked out "at the goal-sides", a throw-in is taken from the corner-flag (foreshadowing a similar Sheffield Association rule introduced in October 1867, as described below).
+
+===Laws of the Sheffield Football Association (1867)===
+
+In March 1867, the newly formed [[Sheffield Football Association]] issued its first set of laws.<ref></ref> The text of the laws of the [London] [[Football Association]], which had been amended the previous month, was used as a starting-point, with the Sheffield clubs making changes to reflect the distinctive features of their game.<ref></ref>
+
+Significant new features of the 1867 laws (relative to the 1862 Sheffield FC laws) were:
+
+* Handling was completely banned, and was punished with an indirect free-kick (from which neither a goal nor a rouge could be scored).
+* The rouge no longer required a touch-down: it was scored whenever the ball was kicked between the rouge flags and under the bar. The rouge was followed by a "kick out" for the defending side, rather than the previous "stand post" procedure.
+* Pushing was forbidden.
+* The throw-in was awarded against the side kicking the ball out of play (rather than to the first team to touch the ball).
+* The minimum distance of 6 yards for the throw-in was removed.
+* The weak off-side law (requiring one opponent to be level or closer to the opponent's goal) was added.
+* The "kick out" after the ball goes out of play behind the goal-line was from within 6 yards of the goal (rather than the previous 10 yards).
+* Ends were changed after each goal.
+
+====October 1867 amendment====
+In October 1867, an amendment was made to the laws whereby there was a "kick-out" only after the ball was kicked directly over the crossbar. In all other cases where the ball went out of play over the goal-line, the game was restarted by a throw, from the point where the ball crossed the goal-line, ten yards towards the opposite goal, awarded against the team who put the ball out of play.<ref></ref>
+
+===Laws of the Sheffield Football Association (1868)===
+
+
+At its meeting in October 1868, the Sheffield Association made changes that altered many aspects of the game:<ref></ref><ref></ref>
+
+* The rouge was abolished, with the rouge flags being removed.
+* The width of the goal was doubled to eight yards (thus making the Sheffield goal the same width as the FA goal, though the height of the Sheffield goal remained greater, at nine feet rather than eight feet).
+* The throw-in from touch was replaced with a kick-in, which could go in any direction.
+* The corner-kick was introduced. It applied whenever the ball went out of play over the goal-line to the side of the goal, and was awarded against the team who kicked the ball out of play. (When the ball went out of play directly over the bar, regardless of which team kicked it out, it was still a kick to the defending team from within six yards of the goal).
+* The free-kick, previously awarded only for handling, was extended to cases of tripping, hacking, and pushing.
+* The fair catch, abolished in 1867, was reintroduced. It was rewarded with a free-kick. All handling, other than a fair catch, remained forbidden.
+* For the first time, the law made reference to match officials. Each team was entitled to nominate an "umpire", who would officiate in the half of the field defended by his own team.
+
+===Laws of the Sheffield Football Association (1869)===
+
+
+Further changes were made at the Sheffield Association's meeting of October 1869:<ref></ref><ref></ref><ref></ref><ref></ref>
+* Handling the ball was allowed in the case of an attempted catch, in addition to a successful fair catch.
+* Handling was permitted within three yards of a player's own goal.
+* The distance opponents had to retreat at a free kick was increased from three yards to six yards.
+* The fair catch, while still permitted, was no longer rewarded with a free kick.
+
+===Laws of the Sheffield Football Association (1871)===
+[[File:Sheffield Football Association Rules 1871.jpg|thumb|Title page of the 1871 rules]]
+
+At an "adjourned general meeting", held in January 1871, the Association voted to prohibit catching or handling the ball (with the exception of defenders within three yards of their own goal).<ref name="jan_1871"></ref> The change was initially made on a temporary basis, until the end of the season, "with a view to its future abolishment". During an "animated discussion" on the question, defenders of the fair catch "objected to the continual chopping and changing ... 'catching' having been abandoned on a previous occasion [from 1867 to 1868]".<ref name="jan_1871"/>
+
+At the annual general meeting, held in October of the same year, the Sheffield Association heard from a representative of the "South Derbyshire Football Association" whose members, having trialled both the FA and Sheffield rules, had "decided almost to a man in favour of Sheffield".<ref name="oct_1871"></ref> The Derbyshire group was "determin[ed] to join the Sheffield Association, should that body decide to abolish catching".<ref name="oct_1871"/> After this, a total ban on handling was proposed. Objectors countered that "the grounds in Sheffield and neighbourhood were unfit for the non-catching rule, on account of their hilly nature", but they were voted down, with the following changes being made:
+
+* The fair catch was once again abolished.
+* Handling was permitted only if the hand or arm was not "extended from the body".
+* Charging from behind was banned, and punished with an indirect free-kick.
+
+It was noted that these changes left Sheffield laws very close to those of the FA, with offside being the biggest remaining difference. The meeting continued by criticising the FA's "ridiculous" offside law (which required three opponents to be closer to the opposing goal), and its arrogance in refusing to play any rules but its own.<ref name="oct_1871"/>
+
+===Laws of the Sheffield Football Association (1875)===
+
+
+The following changes were made at the Sheffield Association's meeting of February 1875:<ref></ref><ref></ref><ref></ref>
+
+* The height of the crossbar was lowered from nine feet to eight feet, thus making the dimensions of the Sheffield goal identical to those of the FA goal.
+* The FA law for changing ends was adopted: ends were always changed at half-time; they were no longer changed after each goal. 
+* The goalkeeper (not a designated individual as in the FA laws, but the nearest defender to the goal) was permitted to handle the ball.
+* The umpires were supplied with flags.
+
+Disputes between the Sheffield Association and the FA remained over the questions of throw-ins/kick-ins and offside. The FA had repeatedly rejected Sheffield's laxer offside rule at its own 1872, 1873 and 1874 meetings.<ref name="1872_proposals"></ref><ref name="1872_meeting"></ref><ref name="1873_meeting"></ref><ref name="1874_proposals"></ref><ref name="1874_meeting"></ref> Furthermore, the FA had that very same month rejected a proposal by the Sheffield Association to introduce kick-ins instead of throw-ins.<ref></ref>
+
+At the Sheffield Association's meeting, a proposal for Sheffield to adopt the FA's stricter offside law was rejected, with a contemporary report stating "[w]e do not doubt that if the Londoners [i.e. the FA] had shown a more conciliatory spirit [with respect to the throw-in rule], the off-side rule would have been accepted".<ref name="shef_1875_meeting"></ref>
+
+===Laws of the Sheffield Football Association (1876)===
+
+
+Another proposal to introduce the FA's 3-player offside law was "negatived by a large majority", with opponents citing the rough nature of the grounds played on by the Sheffield teams, and claiming that "the strong defence it [the FA's offside rule] admits of would in many instances prevent any likelihood of a score being made".<ref name="shef_1876_meeting_blil"></ref> The FA's rejection of Sheffield's kick-in law at its own annual meeting (held one week earlier) was said to have influenced the feeling of the Sheffield meeting.<ref name="shef_1876_meeting_blil"/>
+
+Only one change to the laws was made, with the FA's law on handling the ball being adopted.
+
+===Adoption of the FA laws (1877)===
+
+The dispute between the Sheffield Association and the FA came to a head in 1877. At the regular meeting of the FA, in February, the Sheffield Association again proposed its kick-in rule, while [[Clydesdale FC]] proposed a compromise rule which retained the throw-in but allowed it to go in any direction. The Sheffield Association agreed to withdraw its own proposal in favour of Clydesdale FC's compromise. However, even this compromise proposal was rejected, "to the intense regret of those who desired one common code of rules".<ref></ref> This rejection prompted the publication of a pseudonymous letter in ''[[The Sportsman (1865 newspaper)|The Sportsman]]'' decrying the "hasty, ill-judged decision ... bringing the Football Association into disrepute", and denying that it represented "the general body of [Football] Association players -- even of those in London".<ref></ref> A subsequent extraordinary general meeting of the FA was held on the 17th of April, at which the Clydesdale amendment was reconsidered and passed.<ref name="fa_1877"></ref> As a result of this change in the FA laws, the Sheffield Association held a meeting one week later at which it agreed to abandon its own rules and accept the FA laws.<ref></ref>
+
+The principal changes made by the Sheffield Association in going from its own laws of 1876 to the FA laws of 1877 were the following:
+
+* Adoption of the stricter 3-player FA offside law
+* Replacement of the kick-in from touch with the throw-in (which could still be thrown in any direction)
+* A goal-kick (rather than a defensive corner-kick) was now awarded when an attacking player kicked the ball out of play over the goal-line, but not directly over the goal.
+* An attacking corner-kick (rather than a goal-kick) was now awarded when a defender kicked the ball out of play directly over the goal
+
+===Later developments===
+Despite its adoption of the FA laws in 1877, the Sheffield Association continued to consider proposed alterations to the rules independently. At its February 1879 meeting:<ref name="BM107">Murphy, p. 107.</ref> After a "long and noisy discussion", the change was rejected.
+
+The continued importance of the Sheffield Football Association was reflected in the selection of its treasurer, [[William Peirce Dix]], as one of two delegates to represent England at the [[International Football Conference]] of December 1882. This meeting resulted in one unified set of rules for association football across Britain and Ireland. It prefigured the [[International Football Association Board]], which would be the final authority on the laws of the game from 1886 onwards.<ref></ref>
+
+===Summary of principal changes in the laws===
+
+{| class="wikitable"
+
+|-
+! scope="col" style="width: 5%;" | Date
+! scope="col" style="width: 8%;" | Size of Goal
+! scope="col" style="width: 10%;"| Tie-breaker
+! scope="col" style="width: 14%;" | Handling allowed
+! scope="col" style="width: 10%;" | Offside law
+! scope="col" style="width: 8%;" | Indirect free kick awarded for
+! scope="col" style="width: 13%;" | Throw-in / kick-in
+! scope="col" style="width: 12%;" | Goal-kick / "kick-out"
+! scope="col" style="width: 10%;" | Corner-kick (defensive)
+! scope="col" style="width: 10%;" | Corner-kick (attacking)
+|-
+| '''1858'''
+| rowspan="2" | Unspecified
+| rowspan="2" |None<ref>No tie-breaker in the printed laws, but Sheffield FC used the rouge in one game in December 1860; see above for details</ref>
+| rowspan="1" | Fair catch<br>Pushing the ball<br>Hitting the ball
+| rowspan="3"| None
+| rowspan="6" | Fair catch
+| rowspan="6"| Throw-in awarded to first team to touch ball after it goes out of play. Must be thrown in at right angles to the touchline.
+| rowspan="2" |Whenever no goal scored
+| rowspan="8" | None
+| rowspan="8"| None
+|-
+| '''1860'''
+| rowspan="5"| Fair catch
+|-
+| '''1862'''
+| rowspan="6"| 12&nbsp;ft wide<br>
+9&nbsp;ft high
+| rowspan="4"| Rouge (requiring touchdown)
+| rowspan="4"| Whenever no goal or rouge scored
+|-
+| '''1863'''
+| One opponent must be level or closer to goalline
+|-
+| '''1865'''
+| Any player ahead of the ball is offside<ref>Not played in all matches: see above for details</ref>
+|-
+| '''1866'''
+| rowspan="8" | One opponent must be level or closer to goalline
+|-
+| '''1867 (March)'''
+| rowspan="2"| Rouge (no touchdown required)
+| rowspan="2"| None
+| rowspan="2"|Handball
+| rowspan="2"| Throw-in awarded against team who kicked ball into touch. Must be thrown in at right-angles to the touchline.
+| rowspan="1" | Whenever no goal scored
+|-
+| '''1867 (October)'''
+| rowspan="6" | Whenever no goal scored, and ball goes directly above the crossbar
+|-
+| '''1868'''
+| rowspan="3" | 24&nbsp;ft wide<br>
+9&nbsp;ft high
+| rowspan="6" | None
+| Fair catch
+| rowspan="1" | Fair catch<br>Handball<br>Foul play
+| rowspan=5" | Kick-in awarded against team who kicked ball into touch. May be kicked in any direction. 
+| rowspan="5" | Whenever no goal scored, the ball was last touched by a member of the attacking team, and the ball did not go directly over the crossbar.
+| rowspan="5" | Whenever no goal scored, the ball was last touched by a member of the defending team, and the ball did not go directly over the crossbar.
+|-
+| '''1869'''
+| Fair catch<br>Attempted catch<br>Within 3 yards of goal
+| rowspan="3" | Handball<br>Foul play
+|-
+| '''1871'''
+| Within 3 yards of goal<br>Hand not extended from body
+|-
+| '''1875'''
+| rowspan="3" | 24&nbsp;ft wide, 8&nbsp;ft high
+| Within 3 yards of goal<br>Hand not extended from body<br>Defender closest to goal
+|-
+| '''1876'''
+| rowspan="2" | Goalkeeper, in defence of goal, provided ball not carried
+| Foul play
+|-
+| '''1877'''<br>'''(FA Laws)'''
+| Three opponents must be closer to goalline
+| Handball<br>Offside<br>Foul play
+| Throw-in awarded against team who kicked ball into touch. May be thrown in any direction. 
+| Whenever no goal scored, and the ball was last touched by a member of the attacking team
+| None
+| Whenever no goal scored, and the ball was last touched by a member of the defending team
+|-
+|}
+
+==Early years==
+[[File:Sheffield_fc_team_1857.jpg|thumb|Team photograph of Sheffield F.C. in 1857]]
+Initially the code was only played among [[Sheffield F.C.]] members.<ref>Farnsworth (Sheffield Football: A History), p. 23.</ref> Games initially teamed players with surnames in the first half of the alphabet against players with surnames in the latter half of the alphabet. They, however, discovered that the most talented players all had surnames in the first half. Various other permutations were tried with professionals versus merchants and manufacturers becoming one of the favourites. In December 1858 they played their first outside opposition, a team from the local [[58th (Rutlandshire) Regiment of Foot|58th Army Regiment]].
+
+An early inter-club match between Sheffield and the newly formed [[Hallam F.C.]] took place on 26 December 1860. The match took place at Hallam's ground, [[Sandygate Road]]. It was reported that "The Sheffielders turned in their usual Scarlet and White" which suggests that club colours were already in use.<ref></ref> Despite playing with inferior numbers Sheffield F.C. beat Hallam 2–0.
+The game of the time could still be a violent one. A match on 29 December between Sheffield and Hallam became known as the Battle of [[Bramall Lane]]. An incident occurred when Nathaniel Creswick was being held by Shaw and Waterfall. Accounts differ over subsequent events. The original report stated that Creswick was accidentally punched by Waterfall. This was contested in a letter from the Hallam players that claimed that it was in retaliation for a blow thrown by Nathaniel Creswick. Whatever the cause the result was a general riot, which also involved a number of spectators, after which Waterfall was sent to guard the goal as punishment.<ref>Young, pp. 18–19.</ref>
+
+==Sheffield and London==
+
+[[The Football Association]] (FA) was formed at a meeting in the Freemason's Tavern in [[Great Queen Street]], [[London]] on 26 October 1863. Sheffield F.C. sent four representatives who acted as observers.<ref>Hutton, Curry & Goodman, pp. 31–32.</ref>
+The club joined the new organisation a month later in a letter sent by [[William Chesterman]]. In it he also enclosed a copy of the Sheffield Rules and expressed the club's opposition to hacking and running with the ball, describing them as "directly opposed to football". This letter was read out at an FA meeting on 1 December 1863. The rules allowing hacking and running with the ball were reversed at the same meeting.<ref></ref> The new code became known as Association Football.
+The FA had remained largely dormant after the creation of its rules but in 1866 Sheffield F.C. suggested a match between it and a FA club.<ref>Harvey (2005), p. 116.</ref> This was misunderstood and they ended up playing a combined FA team on 31 March 1866 under FA rules. The game was the first ever to limit the match to 90&nbsp;minutes and Sheffield F.C. adopted it as its preferred length of match.<ref name="BM67">Murphy, p. 67.</ref> The rule would make it to the FA rule book in 1877. A second match was suggested by the London FA in a letter sent in November or the same year but never took place, the reason being disputes of which rules should be used.<ref name="PY23">Young, p. 23.</ref> The FA introduced an  cross bar used by Sheffield in the same year only for Sheffield to then decide to raise it to .<ref>Murphy, p. 70.</ref> The fair catch was also dropped by Sheffield.<ref name="AH122">Harvey (2005), p. 122.</ref> This completed the transition to a purely kicking game.
+
+By 1867 the Sheffield Rules was the dominant code in England.<ref>Murphy, p. 66.</ref> The FA had still not achieved the national dominance it enjoys today. Its membership had shrunk to just 10&nbsp;clubs and at a meeting of the FA it was reported that only three clubs ([[No Names Club]], [[Barnes F.C.|Barnes]] and [[Crystal Palace F.C. (1861)|Crystal Palace]]) were playing by the FA code.<ref name="BL2288"/> At the same meeting the secretary of Sheffield Club suggested three rule changes at an FA meeting: the adoption of rouges, the one man offside and introduction of a free kick for handling the ball. None of the motions were successful.<ref name="PY23"/> Later in the same year, they abolished handling and touchdowns. It was stated that this was to bring them closer to non-handling games.<ref>Harvey (2005), p. 165.</ref>
+
+==Birth of competition==
+
+
+
+In 1867 the world's first football tournament, the [[Youdan Cup]], was played under the rules.<ref name="BM7778">Murphy, pp. 77–78, 117.</ref> The tournament involved 12 local sides and was played during February and March. The tournament committee decided on the use of an off-field referee to award free kicks for infringements. The final took place on 5 March and was only the second football match to take place at Bramall Lane. A crowd of 3,000, a world record attendance, watched Hallam F.C. claim the cup by scoring two rouges in the last five minutes to win two rouges to one.<ref name="BM7778"/> The [[Sheffield and Hallamshire County Football Association|Sheffield Football Association]] was founded following the tournament.<ref>Murphy, pp. 101–102, 106.</ref> The 12 teams involved in the tournament were joined by Sheffield F.C. to become the founding members. The association adopted the Sheffield Rules without any changes. They were the first of several regional Football Associations that sprung up over the following decade.
+
+A second tournament, the [[Cromwell Cup]] was played a year later.<ref>Farnsworth (Wednesday!), pp. 12–13.</ref> This time it was only open to teams under two years old. Out of the four teams that competed [[Sheffield Wednesday|The Wednesday]] emerged victorious. The final was a goalless draw after 90&nbsp;minutes so the teams played on until a goal was scored. This was the first instance where a match involved [[extra time]].<ref>Murphy, p. 79.</ref> This would be the last tournament to be played in Sheffield for nine years until the formation of the [[Sheffield and Hallamshire Senior Cup|Sheffield Football Association Challenge Cup]] in 1876.<ref>Farnsworth (Wednesday!), p. 18.</ref>
+
+Between 1871 and 1876 a total of 16 matches were played between the Sheffield and London associations.<ref>Young, pp. 28–29.</ref> As well as playing under both Sheffield and London rules, additional matches were played at Bramall Lane using a mixture of both sets.
+
+==Demise==
+The [[FA Cup]] was inaugurated in [[1871–72 in English football|1871]], but Sheffield clubs declined to enter the competition as it was being played under FA rules.<ref>Hutton, Curry & Goodman, pp. 35–36.</ref> The first team to enter was Sheffield F.C. in the [[1873–74 in English football|1873–74]] season. This was after an attempt to enter a Sheffield FA team was refused by the organisers. They reached the quarter-finals before being knocked out by [[Clapham Rovers]]. The Sheffield FA instituted their own [[Sheffield and Hallamshire Senior Cup|Challenge Cup]] in 1876.<ref name="BM121">Murphy, pp. 121–122.</ref> The cup was open to all the members of the SFA that now included many clubs outside the local area. The first final attracted a crowd of 8,000, twice as much as the [[FA Cup final]] in the same season. It was a record crowd for a cup match that would be held until the FA Cup of [[1882–83 in English football|1883]]. The match was between [[Heeley F.C.|Heeley]] and [[Sheffield Wednesday F.C.|Wednesday]] and resulted in a 2–0 win for the latter.<ref name="BM121"/>
+
+By [[1876–77 in English football|1877]] it was clear that the situation had become impractical. After letters were published in [[The Field (magazine)|The Field]] deriding the state of affairs it was decided to unite the kicking game under one set of laws.<ref>Young, pp. 15–16.</ref> By this time the FA Cup had helped the FA gain a dominant position within the game.<ref>Murphy, pp. 105–106.</ref>
+
+By the 1880s the influence of the Sheffield FA started to wane. Internal troubles began to surface with disputes between the SFA and a new rival association, Hallamshire F.A. The former, led by [[Charles Clegg (footballer)|Charles Clegg]], also fought a losing battle against the onset of professionalism.<ref>Farnsworth (Sheffield Football: A History), pp. 29, 50–51.</ref> By the middle of the decade several local clubs, including Sheffield and Hallam F.C., were in financial trouble.
+
+==Innovations==
+[[File:Cornerkick.jpg|right|thumb|The [[corner kick]] was first developed under Sheffield Rules.]]
+Heading, corner kicks and awarding free kicks for fouls were conceived in Sheffield games.<ref name="Potting shed" /> One of the most enduring rules of the Sheffield game prevented a goal from being scored directly from a free kick or throw in/kick in. This was present in every version of the Sheffield Rules and was later adopted within the FA rules.<ref name="The National Football Calendar"></ref> It was later refined by the International Football Association Board into the modern-day indirect free kick.
+
+The aerial game was also developed within the Sheffield game. While causing much amusement when the side visited London in 1866, the header would become an important feature of the national game.<ref name="150 years of history"></ref> This was linked to the abolition of the [[fair catch]] in the same year that prevented all use of the hands by outfield players.<ref name="AH122"/>
+
+The [[wikisource:Sheffield Rules#Rules of 1862|1862 rules]] also introduced a [[half-time]] at which the teams would swap ends.<ref name="rulebook" /> Initially this was only if the game was scoreless as the teams would also swap ends if a goal was scored. The rule was changed to a swap at half-time only in 1876.<ref>Young, p. 40.</ref>
+
+Early games did not use any on-field officials but disputes between the players would be referred to a committee member.<ref>Murphy, pp. 43, 57.</ref> Umpires were introduced by the end of 1862. Two umpires were used; one from each club. The off-field referee was introduced for the Youdan Cup in 1867 and entered the rulebook by 1871.<ref name="BM117">Murphy, p. 117.</ref> The umpires would then appeal to the referee on behalf of their team. The concept was later introduced to the FA game and persisted until 1891 when the referee moved onto the pitch and the umpires became [[Assistant referee (association football)|linesmen]]. The umpire's flag was first suggested by [[Charles Clegg (footballer)|Charles Clegg]] at a Sheffield FA meeting in 1874.<ref name="BM117"/>
+
+The innovative streak within Sheffield remained after the demise of their own rules. On 15 October 1878 a crowd of 20,000 watched the first [[Floodlights (sport)|floodlit]] match at [[Bramall Lane]].<ref></ref> The exhibition match was set up to test the use of the lights and was played between specially selected teams captained by the brothers [[William Clegg (footballer)|William]] and [[Charles Clegg (footballer)|Charles Clegg]]. William Clegg's team won 2–0. The experiment was repeated a month later at the [[The Oval|Oval]].
+
+The concept of a penalty goal for fouls within  of the goal was suggested at a Sheffield FA meeting in 1879.<ref name="BM107"/> The penalty would eventually make it into the rules by 1892. Sheffield players developed the '[[Curl (football)|screw shot]]' in the late 1870s. This gave players the ability to bend the shot into the net, a technique now common in the game.<ref name="History of Football Part 12"></ref>
+
+==Legacy==
+Many of the rules in the Sheffield game were adopted by and are still featured in today’s association game. Twelve changes were made to the FA code between 1863 and 1870, of which eight were taken from Sheffield Rules.<ref>Mangan, p. 112.</ref> During this period the Sheffield FA had significant influence over the FA and encouraged it to continue when it was close to collapse in 1867.<ref>Harvey (2005), p. 125.</ref> The corner kick was adopted by the FA in 1872 and they restricted handling of the ball to the goalkeeper's own half in 1873. In the final negotiations between Sheffield and London the latter agreed to allow throw-ins in any direction in exchange.<ref>Murphy, p. 106.</ref>
+
+During the 1860s Sheffield and London were the dominant football cultures in England.<ref></ref> However, while London was fragmented by the different codes used, by 1862 the rules of Sheffield F.C. had become the dominant code in Sheffield.<ref>Harvey (2005), pp. 92, 116.</ref> Nottingham Forest adopted the Sheffield code in 1867 and the [[Birmingham County Football Association|Birmingham]] and [[Derbyshire County Football Association|Derbyshire]] FAs became affiliated with Sheffield, adopting its code, in 1876.<ref>Murphy, pp. 69, 106.</ref>
+
+There is circumstantial evidence that the rules also influenced [[Australian rules football]] conceived a couple of years later.<ref>Murphy, pp. 39–41.</ref> The two codes shared the unique feature of lacking the offside rule. There are also similarities in the laws for kicking off, kick outs, throw-ins and the [[fair catch]], with the [[behind (Australian rules football)#Scoring|"behind"]] displaying some similarities to the rouge.<ref>Murphy, p. 68.</ref> Henry Creswick (possibly a relative of Nathaniel Creswick) was born in Sheffield but emigrated to Australia with his brother in 1840 (the town of [[Creswick, Victoria|Creswick]] is named after them). He moved to [[Melbourne]] in 1854 and became involved in the local cricket scene. He played first class cricket for [[Victorian Bushrangers|Victoria]] during the 1857–1858 season alongside three of the founders of [[Melbourne Football Club]] including [[Tom Wills]], the man credited with creating the original rules.
+
+Despite the loss of their own rules, Sheffield remained a key part of the footballing world until the onset of professionalism.<ref></ref> Sheffield-born [[Charles Clegg (footballer)|Charles Clegg]] became chairman of the Football Association in 1890 leading it until his death in 1937. In the process he became the longest serving FA chairman and earned the nickname "The Napoleon of Football".<ref></ref>
+
+==Formations, positioning and passing==
+Early games involved varying numbers of players. Games could also be played with uneven numbers on each side either because some failed to show or one side offered a [[handicapping|handicap]]. The first match between Sheffield and Hallam involved 16 players versus 20. Games predominantly involved larger numbers than used in the modern games.<ref name="BM59">Murphy, p. 59.</ref> In October 1863, Sheffield declared that it would only play 11 a side matches.<ref name="AH118">Harvey (2005), pp. 118–119.</ref> Despite this it continued to do so on occasions. By 1867 the vast majority of matches in Sheffield involved teams of between 11 and 14.
+
+One of the first positions to develop within the code was referred to as the "kick through".<ref name="BM6582">Murphy, pp. 65, 82.</ref> The position was unique to the Sheffield game and developed because of the lack of an offside rule. The job of the man playing in the kick through position was to remain near to the opposition's goal and wait for a through ball, a tactic today called cherry picking or goal hanging.<ref name="BM6582"/> By 1871 this position had become that of the modern-day [[Striker (association football)|striker]]. "Cover goals" developed in opposition to kick throughs. Despite their name their job was to man mark the kick through.
+
+According to [[Charles W. Alcock]], Sheffield provided the first evidence of the modern passing style known as the [[Combination Game]].<ref name="BM59"/> In October 1863, Sheffield declared that they would only play 11-a-side matches.<ref name="AH118"/> As early as January 1865, Sheffield were said to have scored a goal through "scientific movements" against Nottingham.<ref name="BL2229"></ref> A contemporary match report of November 1865 notes: "We cannot help recording the really scientific play with which the Sheffield men backed each other up"<ref name="BL2275"></ref> Combination play by Sheffield players is also suggested in 1868: "a remarkably neat and quick piece of play on the part of K. Smith, Denton and J. Knowles resulted in a goal for Sheffield, the final kick being given by J. Knowles".<ref name="BL2390"></ref>
+
+Contemporary proof of passing occurs from at least January 1872. In January 1872 the following account is given against Derby: "W. Orton, by a specimen of careful play, running the ball up in close proximity to the goal, from which it was returned to J. Marsh, who by a fine straight shot kicked it through"<ref name="ReferenceA">The Derby Mercury (Derby, England), Wednesday, 17 January 1872; Issue 8218.</ref> This play taking place "in close proximity to the goal" suggests a short pass and the "return" of the ball to Marsh suggests that this was the second of two passes. The account goes on to describe other interesting early tactics: "This goal was supplemented by one of T. Butler's most successful expositions of the art of corkscrew play and deceptive tactics which had the effect of exciting the risibility of the spectators"<ref name="ReferenceA"/> Similarly the following contemporary account of passing comes from January 1872: "the only goal scored in the match was obtained by Sheffield, owing to a good run up the field by Steel, who passed it judiciously to Matthews, and the latter, by a good straight kick, landed it through the goal out of reach of the custodian".<ref name="BL2691"></ref> That match (against [[Notts County]]) also provided contemporary evidence of "good dribbling and kicking" particularly by W. E. Clegg. The condition of the ground, however, "militated against a really scientific exhibition", suggesting that at other times their play was even more "scientific". Their play in March 1872 was described as "speed, pluck and science of no mean order".<ref name="BL2697"></ref>
+
+Before the introduction of the crossbar, teams could play without a [[Goalkeeper (association football)|goalkeeper]].<ref name="BM82">Murphy, p. 82.</ref> The first reference to a goalkeeper appears in the report of the "Battle of Bramall Lane" in 1862.<ref></ref> The position, however, was used as an alternative to sending off a player. Although a recognised position goalkeeper sometimes was also referred to in the rules as the player nearest their own goal (allowing him the luxury of handling the ball). Unlike its FA counterpart Sheffield Rules never restricted handling to one designated player. Despite this by the 1870s teams usually featured a single player in the position.
+
+The match between the Sheffield FA and the FA that took place in December 1871 is notable for evidence of the development of several new positions.<ref name="BM82"/> As well as the first mention of forwards, sides (now called [[Midfielder#Winger|wingers]]) were also mentioned. The rest of the team made up the midfield. The [[Defender (football)#Centre back|Half backs]] (referred to as centre backs in the modern game) were mentioned a year later. By the mid-1870s it was common to use one goalkeeper assisted by two cover goals and two half backs. The attack was made up of five [[midfielder]]s and one forward. This produced the 2-2-5-1 formation.
+
+==Key figures==
+[[File:Nathaniel Creswick.jpg|right|thumb|Nathaniel Creswick, co-creator of the Sheffield Rules]]
+
+Nathaniel Creswick and William Prest are considered both founders of Sheffield F.C. and creators of the code they adhered to. They continued to have a strong presence at the club, both being members of the committee. It was Creswick, however, who exerted more influence over the rules in his position of Honorary Secretary and Treasurer.<ref>Hutton, Curry & Goodman, p. 25.</ref>
+
+John Shaw was originally a member of Sheffield Club.<ref>Murphy, pp. 52, 102.</ref> However another member, Thomas Vickers, also founded their main rivals, Hallam F.C. He also became the vice-president of the Sheffield FA upon its formation and president from 1869 to 1885. In this role he organised many of its first inter-association matches and was involved in the eventual merger of the Sheffield Rule into the national game.
+
+[[Charles Clegg (footballer)|Charles Clegg]] became a massive influence on the national as well as the local game.<ref>Farnsworth (Wednesday!), pp. 15–17.</ref> As a player, he was involved in the first inter-association match and became the first Sheffield-based player to be capped (gaining his only cap in the first international). He went on to become president of both the city's professional sides (playing a large part in the creation of [[Sheffield United F.C.|Sheffield United]]) and held the same position at Sheffield and Hallamshire FA having overseen the merger of the two rival local FAs. He then moved on to national prominence when he became chairman of the FA in 1890 and president in 1923. He held both positions until his death in 1937.
+
+Although not directly involved with Sheffield football, [[Charles W. Alcock]] had a major role in relations between the local and London associations.<ref>Murphy, pp. 69, 94.</ref> He acted as a go between encouraging the FA to accept rules from the Sheffield Rules. When the FA declined an inter-association match in Sheffield on the grounds that they could not play under Sheffield Rules it fell to Alcock to organise a team of London players to fulfil the fixture. The success of the match led to it becoming a regular event in the following years.
+
+
+==See also==
+* [[Cambridge rules]]
+* [[Laws of the Game (association football)]]
+
+==Notes==
+
+
+==References==
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+==External links==
+
+
+
+
+
+
+[[Category:Football codes]]
+[[Category:History of association football]]
+[[Category:Laws of association football]]
+[[Category:Sheffield F.C.]]
+[[Category:Sport in Sheffield]]

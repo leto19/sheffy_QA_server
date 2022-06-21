@@ -1,0 +1,1 @@
+ERROR : No internet detected. Can't connect to http://speech.googleapis.com
