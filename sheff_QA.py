@@ -74,7 +74,7 @@ def tutorial3_basic_qa_pipeline_without_elasticsearch():
     #fetch_archive_from_http(url=s3_url, output_dir=doc_dir)
     #fetch_archive_from_file("wiki_gameofthrones_txt3.zip", output_dir=doc_dir)
     # convert files to dicts containing documents that can be indexed to our datastore
-    docs = convert_files_to_dicts(dir_path=doc_dir, clean_func=clean_wiki_text, split_paragraphs=True)
+    docs = convert_files_to_docs(dir_path=doc_dir, clean_func=clean_wiki_text, split_paragraphs=True)
     # You can optionally supply a cleaning function that is applied to each doc (e.g. to remove footers)
     # It must take a str as input, and return a str.
 
@@ -175,8 +175,9 @@ def make_pipe():
     doc_dir = "data/sheff_data"
     document_store = InMemoryDocumentStore()
 
-    docs = convert_files_to_dicts(dir_path=doc_dir, clean_func=clean_wiki_text, split_paragraphs=True)
-   
+    docs = convert_files_to_docs(dir_path=doc_dir, clean_func=clean_wiki_text, split_paragraphs=True)
+   #docs = convert_files_to_dicts(dir_path=doc_dir, clean_func=clean_wiki_text, split_paragraphs=True)
+
     document_store.write_documents(docs)
 
     retriever = TfidfRetriever(document_store=document_store)
