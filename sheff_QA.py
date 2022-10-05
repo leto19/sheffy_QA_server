@@ -1,6 +1,6 @@
 from haystack.document_stores import InMemoryDocumentStore, SQLDocumentStore
 from haystack.nodes import FARMReader, TransformersReader, TfidfRetriever
-from haystack.utils import clean_wiki_text, convert_files_to_dicts, fetch_archive_from_http, print_answers
+from haystack.utils import clean_wiki_text, convert_files_to_docs, fetch_archive_from_http, print_answers
 import io
 import gzip
 import tarfile
